@@ -59,3 +59,11 @@
 2026-09-14T13:26:28.321Z [INFO] syncNote ok {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md","okCreates":0,"okUpdates":0,"okDeletes":1,"failedOps":1}
 2026-09-14T13:26:42.845Z [INFO] syncNote start {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md"}
 2026-09-14T13:26:43.047Z [INFO] syncNote ok {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-09-14T16:11:37.653Z [INFO] syncNote start {"notePath":"Principles and Practice of Programming/1.4 Testing and Debugging.md"}
+2026-09-14T16:11:46.621Z [INFO] syncNote start {"notePath":"Principles and Practice of Programming/1.3 Introduction to C++.md"}
+2026-09-14T16:11:49.002Z [INFO] syncNote start {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md"}
+2026-09-14T16:11:49.146Z [INFO] syncNote ok (no plan ops after reconciliation) {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md","identityWritesApplied":0,"mediaErrors":0}
+2026-09-14T16:11:57.804Z [INFO] syncNote start {"notePath":"Principles and Practice of Programming/1.1 Computer Systems.md"}
+2026-09-14T16:11:58.227Z [INFO] syncNote ok {"notePath":"Principles and Practice of Programming/1.1 Computer Systems.md","okCreates":3,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-09-22T15:03:45.206Z [INFO] plugin loaded {"version":"2.1.1"}
+2026-09-29T10:42:39.770Z [INFO] plugin loaded {"version":"2.1.1"}

@@ -6,7 +6,7 @@
 1. Spend time working through the C++ Principles and Practice of Programming: https://www.doc.ic.ac.uk/~wjk/C++Intro 
 2. Work through Walter Savitch, Problem Solving with C++: Global Edition (10th edition) - https://library-search.imperial.ac.uk/permalink/44IMP_INST/1fji7u8/alma991000357497601591
 	- **Essential:**
-		- [ ] Chapter 1 Computer Systems [[1.1 Computer Systems]], [[1.2 Programming and Problem-Solving]], [[1.3 Introduction to C++]], [[1.4 Testing and Debugging]]
+		- [x] Chapter 1 Computer Systems [[1.1 Computer Systems]], [[1.2 Programming and Problem-Solving]], [[1.3 Introduction to C++]], [[1.4 Testing and Debugging]]
 		- [ ] Chapter 2 C++ Basics 2.1, 2.2, 2.3, 2.4, 2.5
 		- [ ] Chapter 4 Procedural Abstraction and Functions 4.1, 4.2, 4.3, 4.4, 4.5, 4.6
 	- **Helpful:**
