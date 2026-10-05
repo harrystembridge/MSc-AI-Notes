@@ -13,30 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP70053 - Python Programming/Writing Efficient Code.md",
+                "file": "COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing Efficient Code"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3f9b902e7a9d0444",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b22383d54d1aee9a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP70053 - Python Programming/Attachments/Writing Efficient Code.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Writing Efficient Code"
+              "title": "Lecture 1 - Introduction & Regression"
             }
           }
         ]
@@ -101,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d6446a7ea049c22f",
@@ -118,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-sessional Work/Pre-sessional Notes.md",
+                "file": "COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,10 +224,22 @@
   },
   "active": "fc7f8ed684c16f4d",
   "lastOpenFiles": [
-    "COMP70053 - Python Programming/Attachments/Writing Efficient Code.pdf",
-    "COMP70053 - Python Programming/Writing Efficient Code.md",
-    "COMP70053 - Python Programming/Resources.md",
+    "COMP70050 - Machine Learning/Attachments/Pasted image 20261005120643.png",
+    "COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md",
+    "COMP70050 - Machine Learning/Attachments/Machine Learning - Lecture 1.pdf",
+    "COMP70050 - Machine Learning/Attachments/Pasted image 20261005121530.png",
+    "COMP70050 - Machine Learning/Attachments/Pasted image 20261005120918.png",
+    "Archive/Principles and Practice of Programming/1.1 Computer Systems.md",
     "Archive/Pre-sessional Work/Pre-sessional Notes.md",
+    "COMP70050 - Machine Learning/Attachments",
+    "COMP70100 - Computational Neurodynamics/Topic 1 - Introduction and Motivation.md",
+    "COMP70050 - Machine Learning",
+    "COMP70100 - Computational Neurodynamics/Attachments/COMPUTATIONAL NEURODYNAMICS TOPIC 1- INTRODUCTION AND MOTIVATION.pdf",
+    "COMP70100 - Computational Neurodynamics/Attachments",
+    "COMP70053 - Python Programming/Writing Efficient Code.md",
+    "COMP70100 - Computational Neurodynamics",
+    "COMP70053 - Python Programming/Attachments/Writing Efficient Code.pdf",
+    "COMP70053 - Python Programming/Resources.md",
     "COMP70053 - Python Programming/Introductory Session.md",
     "Archive",
     "COMP70053 - Python Programming/Attachments",
@@ -254,7 +247,6 @@
     "Archive/Principles and Practice of Programming/1.4 Testing and Debugging.md",
     "Archive/Principles and Practice of Programming/1.2 Programming and Problem-Solving.md",
     "Archive/Principles and Practice of Programming/1.3 Introduction to C++.md",
-    "Archive/Principles and Practice of Programming/1.1 Computer Systems.md",
     "object code.md",
     "Archive/Principles and Practice of Programming/Attachments/Program Design Process.png",
     "Archive/Principles and Practice of Programming/Attachments/Preparing a C++ Program for Running.png",
@@ -266,13 +258,8 @@
     "MOC Example/Main Memory.md",
     "MOC Example/Output Devices.md",
     "MOC Example/Secondary Memory.md",
-    "MOC Example",
     "Archive/Principles and Practice of Programming/Attachments/Main Components of a Computer.png",
-    "Archive/Principles and Practice of Programming/Attachments/MSc Computing Presessional 2627.pdf",
-    "Archive/Principles and Practice of Programming/Attachments",
     "1.1 Computer Systems.md",
-    "Welcome.md",
-    "Archive/Pre-sessional Work",
-    "Archive/Principles and Practice of Programming"
+    "Welcome.md"
   ]
 }

@@ -67,3 +67,14 @@
 2026-09-14T16:11:58.227Z [INFO] syncNote ok {"notePath":"Principles and Practice of Programming/1.1 Computer Systems.md","okCreates":3,"okUpdates":0,"okDeletes":0,"failedOps":0}
 2026-09-22T15:03:45.206Z [INFO] plugin loaded {"version":"2.1.1"}
 2026-09-29T10:42:39.770Z [INFO] plugin loaded {"version":"2.1.1"}
+2026-10-05T10:52:30.973Z [ERROR] dispatch failed {"target":"current","error":"Cannot reach AnkiConnect at http://127.0.0.1:8765. Start Anki, confirm the AnkiConnect add-on is installed, and try again."}
+2026-10-05T12:08:35.894Z [INFO] plugin unloading
+2026-10-05T12:08:35.929Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-05T12:10:15.339Z [INFO] syncNote start {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md"}
+2026-10-05T12:10:16.588Z [INFO] syncNote ok {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-05T12:22:01.811Z [INFO] syncNote start {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md"}
+2026-10-05T12:22:01.915Z [INFO] syncNote ok (no plan ops after reconciliation) {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md","identityWritesApplied":0,"mediaErrors":0}
+2026-10-05T12:59:15.988Z [INFO] syncNote start {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md"}
+2026-10-05T12:59:16.094Z [INFO] syncNote ok (no plan ops after reconciliation) {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md","identityWritesApplied":0,"mediaErrors":0}
+2026-10-05T13:13:51.636Z [INFO] syncNote start {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md"}
+2026-10-05T13:13:51.730Z [INFO] syncNote ok (no plan ops after reconciliation) {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md","identityWritesApplied":0,"mediaErrors":0}
