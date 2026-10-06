@@ -78,3 +78,13 @@
 2026-10-05T12:59:16.094Z [INFO] syncNote ok (no plan ops after reconciliation) {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md","identityWritesApplied":0,"mediaErrors":0}
 2026-10-05T13:13:51.636Z [INFO] syncNote start {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md"}
 2026-10-05T13:13:51.730Z [INFO] syncNote ok (no plan ops after reconciliation) {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md","identityWritesApplied":0,"mediaErrors":0}
+2026-10-05T13:19:37.411Z [INFO] syncNote start {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md"}
+2026-10-05T13:19:37.778Z [INFO] syncNote ok {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-05T13:19:45.761Z [INFO] syncNote start {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md"}
+2026-10-05T13:19:45.837Z [INFO] syncNote ok (no plan ops after reconciliation) {"notePath":"COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md","identityWritesApplied":0,"mediaErrors":0}
+2026-10-05T16:00:39.908Z [INFO] syncNote start {"notePath":"COMP70028 - Reinforcement Learning/Lecture 1 - Introduction and Markov Decision Processes.md"}
+2026-10-05T16:00:40.205Z [INFO] syncNote ok {"notePath":"COMP70028 - Reinforcement Learning/Lecture 1 - Introduction and Markov Decision Processes.md","okCreates":4,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-05T16:49:47.266Z [INFO] syncNote start {"notePath":"COMP70028 - Reinforcement Learning/Lecture 1 - Introduction and Markov Decision Processes.md"}
+2026-10-05T16:49:47.564Z [INFO] syncNote ok {"notePath":"COMP70028 - Reinforcement Learning/Lecture 1 - Introduction and Markov Decision Processes.md","okCreates":1,"okUpdates":3,"okDeletes":0,"failedOps":0}
+2026-10-06T14:36:10.260Z [INFO] syncNote start {"notePath":"COMP70028 - Reinforcement Learning/Lecture 1 - Introduction and Markov Decision Processes.md"}
+2026-10-06T14:36:10.354Z [INFO] syncNote ok (no plan ops after reconciliation) {"notePath":"COMP70028 - Reinforcement Learning/Lecture 1 - Introduction and Markov Decision Processes.md","identityWritesApplied":0,"mediaErrors":0}

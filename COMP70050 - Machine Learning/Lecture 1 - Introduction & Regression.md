@@ -1,6 +1,7 @@
 ---
 flashcards:
   q-6j5z: { nid: 1791202216307, hash: amv98w5v, sync: iutp5vvu }
+  q-b65s: { nid: 1791206377760, hash: 282jtmnp, sync: ckhjacm3 }
 ---
 
 **Office hours**: Room 450 HXLY - 5pm-6pm Mondays
@@ -151,3 +152,7 @@ $$a_i$$
 * The noisier the data is/the smaller the data set is, the larger $\lambda$ should be... (sometimes)
 * K-folds, i.e. k segmentations of the data set
 * Don't use test set multiple times, only use once.
+
+Testing ==cloze== syntax
+^q-b65s
+
