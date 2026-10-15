@@ -88,3 +88,31 @@
 2026-10-05T16:49:47.564Z [INFO] syncNote ok {"notePath":"COMP70028 - Reinforcement Learning/Lecture 1 - Introduction and Markov Decision Processes.md","okCreates":1,"okUpdates":3,"okDeletes":0,"failedOps":0}
 2026-10-06T14:36:10.260Z [INFO] syncNote start {"notePath":"COMP70028 - Reinforcement Learning/Lecture 1 - Introduction and Markov Decision Processes.md"}
 2026-10-06T14:36:10.354Z [INFO] syncNote ok (no plan ops after reconciliation) {"notePath":"COMP70028 - Reinforcement Learning/Lecture 1 - Introduction and Markov Decision Processes.md","identityWritesApplied":0,"mediaErrors":0}
+2026-10-08T13:25:49.160Z [INFO] syncNote start {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md"}
+2026-10-08T13:25:51.517Z [INFO] syncNote ok {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-08T13:26:47.414Z [INFO] syncNote start {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md"}
+2026-10-08T13:26:47.459Z [INFO] syncNote pending deletion {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md","blockId":"q-amzw","nid":1791465951440,"deckName":"COMP70015 - Mathematics for Machine Learning::Lectures"}
+2026-10-08T13:26:49.857Z [WARN] CREATE failed {"blockId":"q-dbap","error":"cannot create note because it is a duplicate"}
+2026-10-08T13:26:49.919Z [INFO] syncNote ok {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md","okCreates":0,"okUpdates":0,"okDeletes":1,"failedOps":1}
+2026-10-08T13:29:54.960Z [INFO] syncNote start {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md"}
+2026-10-08T13:29:55.267Z [INFO] syncNote ok {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-08T13:32:06.913Z [INFO] syncNote start {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md"}
+2026-10-08T13:32:07.078Z [INFO] syncNote pending deletion {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md","blockId":"q-jkj6","nid":1791466195252,"deckName":"COMP70015 - Mathematics for Machine Learning::Lectures"}
+2026-10-08T13:32:10.178Z [WARN] CREATE failed {"blockId":"q-cieb","error":"cannot create note because it is a duplicate"}
+2026-10-08T13:32:10.212Z [INFO] syncNote ok {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md","okCreates":0,"okUpdates":0,"okDeletes":1,"failedOps":1}
+2026-10-08T13:37:18.060Z [INFO] syncNote start {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md"}
+2026-10-08T13:37:18.265Z [INFO] syncNote ok {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-08T13:38:01.335Z [INFO] syncNote start {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md"}
+2026-10-08T13:38:01.536Z [INFO] syncNote pending deletion {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md","blockId":"q-pird","nid":1791466638256,"deckName":"COMP70015 - Mathematics for Machine Learning::Lectures"}
+2026-10-08T13:38:03.400Z [WARN] CREATE failed {"blockId":"q-in8b","error":"cannot create note because it is a duplicate"}
+2026-10-08T13:38:03.412Z [INFO] syncNote ok {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md","okCreates":0,"okUpdates":0,"okDeletes":1,"failedOps":1}
+2026-10-08T13:38:37.548Z [INFO] syncNote start {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md"}
+2026-10-08T13:38:37.630Z [INFO] syncNote ok {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-08T13:51:03.022Z [INFO] syncNote start {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md"}
+2026-10-08T13:51:03.262Z [INFO] syncNote ok {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md","okCreates":2,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-08T13:58:46.410Z [INFO] syncNote start {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md"}
+2026-10-08T13:58:47.288Z [INFO] syncNote ok {"notePath":"COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md","okCreates":22,"okUpdates":1,"okDeletes":0,"failedOps":0}
+2026-10-13T14:22:18.136Z [INFO] syncNote start {"notePath":"COMP70053 - Python Programming/Lecture 3 - Trees.md"}
+2026-10-13T14:22:20.009Z [INFO] syncNote ok {"notePath":"COMP70053 - Python Programming/Lecture 3 - Trees.md","okCreates":18,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-15T12:07:04.940Z [INFO] syncNote start {"notePath":"COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md"}
+2026-10-15T12:07:05.309Z [INFO] syncNote ok {"notePath":"COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md","okCreates":3,"okUpdates":0,"okDeletes":0,"failedOps":0}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1791901115515-4f523m8e7",
+  "providerId": "claude",
+  "title": "Generate tree terminology Anki cards",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791901115542,
+  "lastActivityAt": 1791901301680,
+  "sessionId": "826ad096-4391-4496-b4a6-643ccc6e7031",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "826ad096-4391-4496-b4a6-643ccc6e7031"
+  },
+  "linkedContentPath": "COMP70053 - Python Programming (PP)/Lecture 3 - Trees.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 74641,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 74643,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}

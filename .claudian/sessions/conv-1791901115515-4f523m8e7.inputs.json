@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1791901115515-4f523m8e7",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791901115584-us99180",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1791901115499-ybwbmnd",
+      "timestamp": 1791901115499,
+      "rawDisplayText": "generate anki cards for definitions for basic tree terminology for CS use anki > [!CARD] syntax",
+      "canonicalText": "generate anki cards for definitions for basic tree terminology for CS use anki > [!CARD] syntax",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70053 - Python Programming/Lecture 3 - Trees.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "9396d7c6bc4c52e28833e5ee49bb18835854bbeca91892b5af44a688c3a20b0d",
+      "providerUserMessageId": "4964cdee-1bbd-4095-92fb-b103777ffa73"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791901171987-vd53ius",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1791901171974-lvstw1p",
+      "timestamp": 1791901171974,
+      "rawDisplayText": "generate inline anki cards for definitions for basic tree terminology for CS use anki > [!CARD] syntax. I use the flashcard 2.0 plugin in obsidian",
+      "canonicalText": "generate inline anki cards for definitions for basic tree terminology for CS use anki > [!CARD] syntax. I use the flashcard 2.0 plugin in obsidian",
+      "images": [],
+      "contentDigest": "7ece650b1c9683530c0efbd96d2494e064c45b319e5dc07a3096301b73a2abd6",
+      "providerUserMessageId": "840bb096-97c4-4d63-a970-e36fd5a5033a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791901290865-n47gf4t",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1791901290840-6ho1ui4",
+      "timestamp": 1791901290840,
+      "rawDisplayText": "give me code for definitions for basic tree terminology for CS use anki > [!CARD] syntax. I use the flashcard 2.0 plugin in obsidian\n\ne.g. \n> [!CARD] What is $\\operatorname{diag}(\\boldsymbol{v})$?\n> The diagonal $n \\times n$ matrix made from the vector $\\boldsymbol{v}$.\n>\n\nI want to copy and paste them directly to obsidian",
+      "canonicalText": "give me code for definitions for basic tree terminology for CS use anki > [!CARD] syntax. I use the flashcard 2.0 plugin in obsidian\n\ne.g. \n> [!CARD] What is $\\operatorname{diag}(\\boldsymbol{v})$?\n> The diagonal $n \\times n$ matrix made from the vector $\\boldsymbol{v}$.\n>\n\nI want to copy and paste them directly to obsidian",
+      "images": [],
+      "contentDigest": "f74ffb8992b5371648a9edcf62e00d0cfa049abe9a57f7fd23ee71777ddd2fac",
+      "providerUserMessageId": "e4190065-5840-4a96-9008-c8ee7380f9f4",
+      "providerAssistantMessageId": "a41ce02b-a1f5-453c-83df-ae4d29ba1b0e"
+    }
+  ]
+}

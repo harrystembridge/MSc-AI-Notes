@@ -1,0 +1,23 @@
+{
+  "id": "conv-1791884175072-tfvaetpnl",
+  "providerId": "claude",
+  "title": "Derive Bellman closed-form solution",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791884175110,
+  "lastActivityAt": 1791892674890,
+  "sessionId": "6445627e-cb39-4abe-a2f6-c06dd2e365d4",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "6445627e-cb39-4abe-a2f6-c06dd2e365d4"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 291,
+    "cacheReadInputTokens": 23042,
+    "contextWindow": 1000000,
+    "contextTokens": 23335,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

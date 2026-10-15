@@ -4,96 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "1e177fb8440a89cd",
+        "id": "f8f1d1889d640128",
         "type": "tabs",
         "children": [
           {
-            "id": "fc7f8ed684c16f4d",
+            "id": "82db847cdd47204a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP70028 - Reinforcement Learning/Lecture 1 - Introduction and Markov Decision Processes.md",
+                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 - Introduction and Markov Decision Processes"
-            }
-          },
-          {
-            "id": "3e64d42e9bf20035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP70015 - Mathematics for Machine Learning/Lecture 00 - Preliminaries and Background.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 00 - Preliminaries and Background"
-            }
-          },
-          {
-            "id": "2702b2672aa7eaac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP70015 - Mathematics for Machine Learning/Lecture 00 - Preliminaries and Background.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 00 - Preliminaries and Background"
-            }
-          },
-          {
-            "id": "ed755dea520e2e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP70053 - Python Programming/Lecture 1 - Writing Efficient Code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 1 - Writing Efficient Code"
-            }
-          },
-          {
-            "id": "0f709fc3653a0b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 1 - Introduction & Regression"
+              "title": "Lecture 3 - Gradient-Based Optimisation and Hessians"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
-        "id": "57cb35292594190a",
+        "id": "270227deae6e5ab0",
         "type": "tabs",
         "children": [
           {
-            "id": "50bff215b90a8332",
+            "id": "95a226ce727c8b86",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP70053 - Python Programming/Attachments/Searching Algorithms.pdf"
+                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture 3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Searching Algorithms"
+              "title": "MML - Lecture 3"
             }
           }
         ]
@@ -158,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 446.7890625,
     "collapsed": true
   },
   "right": {
@@ -175,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md",
+                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md",
+                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -268,9 +211,21 @@
                     {
                       "tabId": "tab-1789393022800-vq599vw",
                       "conversationId": "conv-1789393042614-5rgkx7vmy"
+                    },
+                    {
+                      "tabId": "tab-1791297471049-9g310xv",
+                      "conversationId": "conv-1791884175072-tfvaetpnl"
+                    },
+                    {
+                      "tabId": "tab-1791901081383-8fy0fbu",
+                      "conversationId": "conv-1791901115515-4f523m8e7"
+                    },
+                    {
+                      "tabId": "tab-1792064662066-c2z931m",
+                      "conversationId": "conv-1792064668043-0ck4wjpd3"
                     }
                   ],
-                  "activeTabId": "tab-1789393022800-vq599vw"
+                  "activeTabId": "tab-1792064662066-c2z931m"
                 }
               },
               "icon": "bot",
@@ -282,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 372.21484375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,49 +253,52 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0f709fc3653a0b8c",
+  "active": "ab3c409d1c7cd8fc",
   "lastOpenFiles": [
-    "COMP70028 - Reinforcement Learning/Lecture 1 - Introduction and Markov Decision Processes.md",
-    "COMP70053 - Python Programming/Lecture 2 - Search Algorithms.md",
-    "COMP70053 - Python Programming/Attachments/Searching Algorithms.pdf",
-    "COMP70053 - Python Programming/Lecture 1 - Writing Efficient Code.md",
-    "COMP70053 - Python Programming/Resources.md",
-    "COMP70053 - Python Programming/Attachments/Writing Efficient Code.pdf",
-    "COMP70015 - Mathematics for Machine Learning/Lecture 01 - Problem Settings & Linear Models.md",
-    "COMP70015 - Mathematics for Machine Learning/Resources.md",
-    "COMP70015 - Mathematics for Machine Learning/Lecture 00 - Preliminaries and Background.md",
-    "COMP70015 - Mathematics for Machine Learning/Attachments/ML Lecture 01 - Slides.pdf",
-    "COMP70015 - Mathematics for Machine Learning/Attachments",
-    "COMP70015 - Mathematics for Machine Learning/Attachments/Mathematics for ML - Lecture 00.pdf",
-    "COMP70015 - Mathematics for Machine Learning",
-    "COMP70028 - Reinforcement Learning/Attachments/Reinforcement Learning - Lecture 1 pt2.pdf",
-    "COMP70028 - Reinforcement Learning/Attachments/Reinforcement Learning - Lecture 1.pdf",
-    "COMP70028 - Reinforcement Learning/Attachments",
-    "COMP70050 - Machine Learning/Lecture 1 - Introduction & Regression.md",
-    "COMP70028 - Reinforcement Learning",
-    "COMP70050 - Machine Learning/Attachments/Pasted image 20261005120643.png",
-    "COMP70050 - Machine Learning/Attachments/Pasted image 20261005121530.png",
-    "COMP70050 - Machine Learning/Attachments/Pasted image 20261005120918.png",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture 3.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 1 - Problem Settings & Linear Models.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/ML Machine Learning-A Probabilistic Perspective.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/ML Lecture 01 - Slides.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 2 - Ordinary Least Squares & Generalised Linear Models.md",
+    "COMP70028 - Reinforcement Learning (RL)/Tutorials/Tutorial 1 - Markov Decision Processes.md",
+    "COMP70050 - Machine Learning (ML)/Lecture 2 - Classification and Optimisation.md",
+    "COMP70050 - Machine Learning (ML)/Attachments/ML - Lecture 2 pt B 1.pdf",
+    "COMP70050 - Machine Learning (ML)/Lecture 1 - Regression.md",
+    "COMP70050 - Machine Learning (ML)/Lecture 0 - Introduction & Regression.md",
+    "COMP70050 - Machine Learning (ML)/Attachments/ML - Lecture 2 pt B.pdf",
+    "COMP70050 - Machine Learning (ML)/Attachments/Machine Learning - Regression.pdf",
+    "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/RL - Tutorial 1.pdf",
+    "COMP70053 - Python Programming (PP)/Lecture 2 - Search Algorithms.md",
+    "COMP70053 - Python Programming (PP)/Lecture 3 - Trees.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md",
+    "COMP70053 - Python Programming (PP)/Attachments/Python - Lecture 3.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 00 - Review and Warm-up.md",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013105128.png",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013111446.png",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013111441.png",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013111427.png",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013110507.png",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013105540.png",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013105526.png",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/70028_1_model_answer.pdf",
+    "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 2 - Dynamic Programming.md",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/RL - Lecture 2.pdf",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261012163751.png",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261012163737.png",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261010152910.png",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Resources.md",
+    "COMP70006 - Computational Finance (CF)/Lecture 01 - Mathematical Preliminaries.md",
+    "COMP70006 - Computational Finance (CF)/Lecture 00 - Course Outline.md",
+    "Archive/Principles and Practice of Programming/1.3 Introduction to C++.md",
+    "COMP70053 - Python Programming (PP)/Lecture 1 - Writing Efficient Code.md",
+    "COMP70053 - Python Programming (PP)/Resources.md",
     "Archive/Principles and Practice of Programming/1.1 Computer Systems.md",
     "Archive/Pre-sessional Work/Pre-sessional Notes.md",
-    "COMP70100 - Computational Neurodynamics/Topic 1 - Introduction and Motivation.md",
+    "Archive/COMP70100 - Computational Neurodynamics/Topic 1 - Introduction and Motivation.md",
     "COMP70053 - Python Programming/Introductory Session.md",
     "Archive/Principles and Practice of Programming/1.4 Testing and Debugging.md",
-    "Archive/Principles and Practice of Programming/1.2 Programming and Problem-Solving.md",
-    "Archive/Principles and Practice of Programming/1.3 Introduction to C++.md",
-    "object code.md",
-    "Archive/Principles and Practice of Programming/Attachments/Program Design Process.png",
-    "Archive/Principles and Practice of Programming/Attachments/Preparing a C++ Program for Running.png",
-    "Archive/Principles and Practice of Programming/Attachments/Compiling and Running a C++ Program.png",
-    "Principles and Practice of Programming/Principles and Practice of Programming Notes.md",
-    "MOC Example/1.1 Computer Systems.md",
-    "MOC Example/CPU.md",
-    "MOC Example/Input Devices.md",
-    "MOC Example/Main Memory.md",
-    "MOC Example/Output Devices.md",
-    "MOC Example/Secondary Memory.md",
-    "Archive/Principles and Practice of Programming/Attachments/Main Components of a Computer.png",
-    "1.1 Computer Systems.md",
-    "Welcome.md"
+    "Archive/Principles and Practice of Programming/1.2 Programming and Problem-Solving.md"
   ]
 }

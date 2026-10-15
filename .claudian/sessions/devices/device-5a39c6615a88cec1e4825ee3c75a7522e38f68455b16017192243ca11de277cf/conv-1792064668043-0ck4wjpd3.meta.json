@@ -1,0 +1,24 @@
+{
+  "id": "conv-1792064668043-0ck4wjpd3",
+  "providerId": "claude",
+  "title": "give me the identity matrix in latex",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1792064668056,
+  "lastActivityAt": 1792065920254,
+  "sessionId": "2e53a14b-6f0a-4abd-9eff-5dffc280bb70",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "2e53a14b-6f0a-4abd-9eff-5dffc280bb70"
+  },
+  "linkedContentPath": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 23014,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 23016,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

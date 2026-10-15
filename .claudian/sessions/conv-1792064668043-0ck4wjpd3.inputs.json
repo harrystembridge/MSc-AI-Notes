@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1792064668043-0ck4wjpd3",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792064668082-z5o4dj5",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1792064668036-9r01sxr",
+      "timestamp": 1792064668036,
+      "rawDisplayText": "give me the identity matrix in latex",
+      "canonicalText": "give me the identity matrix in latex",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "f2c92c3ed80ec4d50d916ebf74dc300c25ef8ab5524ea8c9eb53fa4e21bfd4c2",
+      "providerUserMessageId": "91a1dbd8-e36a-4305-9621-d0ebb6f2dc1c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792064683984-460g25k",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1792064683978-umsa2ca",
+      "timestamp": 1792064683978,
+      "rawDisplayText": "give me the identity matrix in latex",
+      "canonicalText": "give me the identity matrix in latex",
+      "images": [],
+      "contentDigest": "f2c92c3ed80ec4d50d916ebf74dc300c25ef8ab5524ea8c9eb53fa4e21bfd4c2",
+      "providerUserMessageId": "91a1dbd8-e36a-4305-9621-d0ebb6f2dc1c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792064888846-gt4flrv",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1792064888813-s9opvql",
+      "timestamp": 1792064888813,
+      "rawDisplayText": "test",
+      "canonicalText": "test",
+      "images": [],
+      "contentDigest": "0dd83749a380c4023c563e5cf5f0117e89ea2c9525689c6acd270138135ab55f",
+      "providerUserMessageId": "ab3bf701-b3ce-4c9d-b66b-65d3f0dfdb49"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792065040713-taphgp4",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1792065040694-3t82cvy",
+      "timestamp": 1792065040694,
+      "rawDisplayText": "test",
+      "canonicalText": "test",
+      "images": [],
+      "contentDigest": "0dd83749a380c4023c563e5cf5f0117e89ea2c9525689c6acd270138135ab55f",
+      "providerUserMessageId": "73c3a811-1c6c-4fbf-80e7-bc32c10579c4",
+      "providerAssistantMessageId": "a192cfb7-65b5-4e19-b64f-ceb9ac18b10c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792065915972-pflb46k",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1792065915961-0cz3jnh",
+      "timestamp": 1792065915961,
+      "rawDisplayText": "create some latex to show e_i the canonical basis vector",
+      "canonicalText": "create some latex to show e_i the canonical basis vector",
+      "images": [],
+      "contentDigest": "994b085442775af8bef836c10a9f5336e8613936f9cbe92a0a45d54f7fbdbe46",
+      "providerUserMessageId": "6a00f6bc-0ec0-4eec-ab62-9b4e8533a555",
+      "providerAssistantMessageId": "9194a973-3e71-4c19-bdbd-eaf3372d7a90"
+    }
+  ]
+}

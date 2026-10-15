@@ -36,7 +36,7 @@ flashcards:
 > 
 > * $S$: Set of states - all possible situations 
 > * $A$: Set of actions - all possible decisions 
-> * $P(s′|s, a)$: Transition probabilities - how actions change states 
+> * $P(s′|s, a)$: Transition probabilities - how actions change states, the probability of reaching state $s'$ given you are in state $s$ applying action $a$
 > * $R(s, a, s′)$: Reward function - immediate feedback for transitions
 > 
 > If you can specify the above, you can apply RL...
@@ -61,6 +61,7 @@ flashcards:
 > [!CARD] Markov Property
 > The future is independent of the past given the present:
 > $P(s_{t+1}|s_t, a_t, s_{t−1}, a_{t−1}, . . . , s_0, a_0) = P(s_{t+1}|s_t, a_t)$
+> The current state contains all information needed to predict the future.
 ^q-e5hh
 
 * Stock market is non-markovian as we do not see all the factors that impact the stock market prices
@@ -83,7 +84,7 @@ flashcards:
 ![[Reinforcement Learning - Lecture 1 pt2.pdf#page=27|Reinforcement Learning - Lecture 1 pt2, page 27]]
 
 ![[Reinforcement Learning - Lecture 1 pt2.pdf#page=28|Reinforcement Learning - Lecture 1 pt2, page 28]]
-
+* Add equation to Anki
 * $\gamma = 0$ is shortsighted aka myopic (only immediate rewards matter)
 * $\gamma = 0.9$ is balanced
 * $\gamma = 1$ is far sighted - all rewards matter equally regardless of delay
@@ -114,7 +115,7 @@ flashcards:
 
 ![[Reinforcement Learning - Lecture 1 pt2.pdf#page=44|Reinforcement Learning - Lecture 1 pt2, page 44]]
 
-Answer C: The Bellman equation expresses the relationship between current and future values
+Answer C: The Bellman equation expresses the relationship between current and future values.
 
 NOTE **THE DERIVATION IS EXAMINABLE!!!** - add derivation to Anki
 

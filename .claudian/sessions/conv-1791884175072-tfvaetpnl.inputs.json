@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1791884175072-tfvaetpnl",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791884175372-jn0mv3s",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1791884175044-iy34gzg",
+      "timestamp": 1791884175044,
+      "rawDisplayText": "How do we get from $V^\\pi = r_\\pi + \\gamma P_\\pi V^\\pi$\nto, $V^\\pi = (I - \\gamma P_\\pi)^{-1} r_\\pi$",
+      "canonicalText": "How do we get from $V^\\pi = r_\\pi + \\gamma P_\\pi V^\\pi$\nto, $V^\\pi = (I - \\gamma P_\\pi)^{-1} r_\\pi$",
+      "context": {
+        "editorSelection": {
+          "notePath": "COMP70028 - Reinforcement Learning/Tutorials/Tutorial 1 - Markov Decision Processes.md",
+          "mode": "selection",
+          "selectedText": "$V^\\pi = r_\\pi + \\gamma P_\\pi V^\\pi$\nSo, $V^\\pi = (I - \\gamma P_\\pi)^{-1} r_\\pi$",
+          "lineCount": 2,
+          "startLine": 112
+        }
+      },
+      "images": [],
+      "contentDigest": "8bc6823ce15c8369c94bcda07b0c9e0ff483cb0be2c9bd09854d7eae34799dc7",
+      "providerUserMessageId": "bc7b477c-b4ed-4f52-ac82-2a772702328b",
+      "providerAssistantMessageId": "7935a198-42f2-48c2-b759-efd0e68153f8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791884313576-u3u2lcz",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1791884313571-6x3tnys",
+      "timestamp": 1791884313571,
+      "rawDisplayText": "condense and give me steps in latex with short few word notes on each line that i paste directly into obsidian",
+      "canonicalText": "condense and give me steps in latex with short few word notes on each line that i paste directly into obsidian",
+      "images": [],
+      "contentDigest": "d76467e9d1735a153379ad2af0971fd87466ea46f73decc8bed91cc216d08b82",
+      "providerUserMessageId": "b847e19c-e183-4228-9239-8fbff992a66d",
+      "providerAssistantMessageId": "4e6f3b80-f568-447c-ab86-bf350fbb2204"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791884345217-c30i90g",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1791884345196-69dlwh1",
+      "timestamp": 1791884345196,
+      "rawDisplayText": "remember in obsidian the latex starts and ends with $",
+      "canonicalText": "remember in obsidian the latex starts and ends with $",
+      "images": [],
+      "contentDigest": "cad061263b075147c1c4e8add089523541f923db323a1bff6c877588696d7e4b",
+      "providerUserMessageId": "adea958b-dd77-45da-bc42-f7ac1f394eeb",
+      "providerAssistantMessageId": "c22efdf5-8818-4c38-86aa-148dbe70da5f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791887164175-0hei7wp",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1791887164167-wtkuwwk",
+      "timestamp": 1791887164167,
+      "rawDisplayText": "What are the 3 axioms of probability, keep it short and use notation",
+      "canonicalText": "What are the 3 axioms of probability, keep it short and use notation",
+      "images": [],
+      "contentDigest": "c80be0a31332abe570cc4ea91841da6270040d3b2e5f6d7c4e96cf391fa67820",
+      "providerUserMessageId": "9992607c-cc80-4f7f-a0a4-4401cbe07ee6",
+      "providerAssistantMessageId": "56cd62a9-f6af-4a1c-8053-28d2b0aae1a8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791890565963-aiu6ksn",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1791890565948-xu42bh8",
+      "timestamp": 1791890565948,
+      "rawDisplayText": "How to calculate the cumulative probability of a continuous random variable being between two values i.e. $P(a \\leq X \\leq b)$\n> $P(a \\leq X \\leq b)$ = \n\nExpress in terms of integration for me pls",
+      "canonicalText": "How to calculate the cumulative probability of a continuous random variable being between two values i.e. $P(a \\leq X \\leq b)$\n> $P(a \\leq X \\leq b)$ = \n\nExpress in terms of integration for me pls",
+      "context": {
+        "editorSelection": {
+          "notePath": "COMP70015 - Mathematics for Machine Learning/Lectures/Lecture 00 - Preliminaries and Background.md",
+          "mode": "selection",
+          "selectedText": "How to calculate the cumulative probability of a continuous random variable being between two values i.e. $P(a \\leq X \\leq b)$\n> $P(a \\leq X \\leq b)$ = ",
+          "lineCount": 2,
+          "startLine": 205
+        }
+      },
+      "images": [],
+      "contentDigest": "4f1e958eba01f3ffa13fde56a1ac1334d8416ebeea830ddcb9d534df7ebcd47f",
+      "providerUserMessageId": "0a83f7d5-8ac5-48e2-960f-c04a44a4978c",
+      "providerAssistantMessageId": "d9d7d9ce-8419-4d11-8dba-ddbb4c1cb6fc"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791892664759-ab8bz2i",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1791892664746-m3uamqt",
+      "timestamp": 1791892664746,
+      "rawDisplayText": "What's the difference between part a and b:\n\nQuestion 6 (Joint Discrete Random Variables). Consider two random variables A, C, where A is the outcome of one die, and C gives the sum of A and the sum of another die B. a. From intuition, write a table of P(C = c|A = a), which we use to denote the probability of C taking the value c, if we know that A has taken the value a. b. Write a table of P(C = c, A = a). To help you think it through, consider a tree of outcomes that can occur. This helps illustrate independence between outcomes, which helps you figure out when you can multiply probabilities.",
+      "canonicalText": "What's the difference between part a and b:\n\nQuestion 6 (Joint Discrete Random Variables). Consider two random variables A, C, where A is the outcome of one die, and C gives the sum of A and the sum of another die B. a. From intuition, write a table of P(C = c|A = a), which we use to denote the probability of C taking the value c, if we know that A has taken the value a. b. Write a table of P(C = c, A = a). To help you think it through, consider a tree of outcomes that can occur. This helps illustrate independence between outcomes, which helps you figure out when you can multiply probabilities.",
+      "images": [],
+      "contentDigest": "54f196f9983adc4fac4febaf26ddd02ec2eb35e4b0b4262f292cd424a1e083a0",
+      "providerUserMessageId": "f0d82d6a-ed8d-4186-83ef-b64380ab459e",
+      "providerAssistantMessageId": "e78e8ca2-5f16-4386-a00e-19480a25efa4"
+    }
+  ]
+}
