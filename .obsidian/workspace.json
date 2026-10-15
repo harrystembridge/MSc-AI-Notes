@@ -13,30 +13,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md",
+                "file": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 2 - Mathematical Preliminaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 - Gradient-Based Optimisation and Hessians"
+              "title": "Lecture 2 - Mathematical Preliminaries"
+            }
+          },
+          {
+            "id": "70a8f216a8224894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 1 - Course Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 1 - Course Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "270227deae6e5ab0",
+        "id": "9dd0c9bc41ceda83",
         "type": "tabs",
         "children": [
           {
-            "id": "95a226ce727c8b86",
+            "id": "685e4fdfa6f07fd8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture 3.pdf"
+                "file": "COMP70006 - Computational Finance (CF)/Attachments/Lecture 00 - Computational Finance.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "MML - Lecture 3"
+              "title": "Lecture 00 - Computational Finance"
             }
           }
         ]
@@ -101,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.7890625,
-    "collapsed": true
+    "width": 446.7890625
   },
   "right": {
     "id": "d6446a7ea049c22f",
@@ -118,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md",
+                "file": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 1 - Course Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md",
+                "file": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 1 - Course Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -253,10 +267,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ab3c409d1c7cd8fc",
+  "active": "70a8f216a8224894",
   "lastOpenFiles": [
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture 3.pdf",
+    "COMP70006 - Computational Finance (CF)/Attachments/Lecture 00 - Computational Finance.pdf",
+    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 1 - Course Outline.md",
+    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 3 - The Basic Theory of Interest.md",
+    "COMP70006 - Computational Finance (CF)/Tutorials",
+    "COMP70006 - Computational Finance (CF)/Lectures",
+    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 2 - Mathematical Preliminaries.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture 3.pdf",
     "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 1 - Problem Settings & Linear Models.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/ML Machine Learning-A Probabilistic Perspective.pdf",
     "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/ML Lecture 01 - Slides.pdf",
@@ -273,7 +293,6 @@
     "COMP70053 - Python Programming (PP)/Lecture 2 - Search Algorithms.md",
     "COMP70053 - Python Programming (PP)/Lecture 3 - Trees.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md",
-    "COMP70053 - Python Programming (PP)/Attachments/Python - Lecture 3.pdf",
     "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 00 - Review and Warm-up.md",
     "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013105128.png",
     "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013111446.png",
@@ -282,15 +301,11 @@
     "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013110507.png",
     "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013105540.png",
     "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013105526.png",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/70028_1_model_answer.pdf",
     "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 2 - Dynamic Programming.md",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/RL - Lecture 2.pdf",
     "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261012163751.png",
     "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261012163737.png",
     "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261010152910.png",
     "COMP70015 - Mathematics for Machine Learning (MML)/Resources.md",
-    "COMP70006 - Computational Finance (CF)/Lecture 01 - Mathematical Preliminaries.md",
-    "COMP70006 - Computational Finance (CF)/Lecture 00 - Course Outline.md",
     "Archive/Principles and Practice of Programming/1.3 Introduction to C++.md",
     "COMP70053 - Python Programming (PP)/Lecture 1 - Writing Efficient Code.md",
     "COMP70053 - Python Programming (PP)/Resources.md",
@@ -298,7 +313,6 @@
     "Archive/Pre-sessional Work/Pre-sessional Notes.md",
     "Archive/COMP70100 - Computational Neurodynamics/Topic 1 - Introduction and Motivation.md",
     "COMP70053 - Python Programming/Introductory Session.md",
-    "Archive/Principles and Practice of Programming/1.4 Testing and Debugging.md",
-    "Archive/Principles and Practice of Programming/1.2 Programming and Problem-Solving.md"
+    "Archive/Principles and Practice of Programming/1.4 Testing and Debugging.md"
   ]
 }

@@ -4,7 +4,7 @@
   "title": "give me the identity matrix in latex",
   "titleGenerationStatus": "failed",
   "createdAt": 1792064668056,
-  "lastActivityAt": 1792065920254,
+  "lastActivityAt": 1792068767503,
   "sessionId": "2e53a14b-6f0a-4abd-9eff-5dffc280bb70",
   "selectedModel": "sonnet",
   "providerState": {
@@ -14,11 +14,11 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 23014,
-    "cacheReadInputTokens": 0,
+    "cacheCreationInputTokens": 286,
+    "cacheReadInputTokens": 25270,
     "contextWindow": 1000000,
-    "contextTokens": 23016,
-    "percentage": 2,
+    "contextTokens": 25558,
+    "percentage": 3,
     "contextWindowIsAuthoritative": true
   }
 }
