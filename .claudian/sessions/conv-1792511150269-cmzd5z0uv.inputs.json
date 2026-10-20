@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1792511150269-cmzd5z0uv",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792511151185-fvney45",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1792511150259-szq9jfd",
+      "timestamp": 1792511150259,
+      "rawDisplayText": "add a note on the general form for a matrix rotatiion in R2",
+      "canonicalText": "add a note on the general form for a matrix rotatiion in R2",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "7be906c814d08576522f1d45c7470c5c8ce3410cec874fba9be7c91e7a3cec0f",
+      "providerUserMessageId": "d6f09757-3348-48bf-80be-ee441cdb88e9",
+      "providerAssistantMessageId": "ef8f06bc-d014-4318-9426-b162cbaefdd6"
+    }
+  ]
+}

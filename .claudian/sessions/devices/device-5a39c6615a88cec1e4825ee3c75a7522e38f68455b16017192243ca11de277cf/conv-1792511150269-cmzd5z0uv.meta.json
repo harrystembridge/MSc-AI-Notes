@@ -1,0 +1,24 @@
+{
+  "id": "conv-1792511150269-cmzd5z0uv",
+  "providerId": "claude",
+  "title": "Matrix rotation in R2 general form",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792511150294,
+  "lastActivityAt": 1792511163388,
+  "sessionId": "4e6c114a-0f9e-4531-8e0d-da2dc89c885e",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "4e6c114a-0f9e-4531-8e0d-da2dc89c885e"
+  },
+  "linkedContentPath": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1372,
+    "cacheReadInputTokens": 27415,
+    "contextWindow": 1000000,
+    "contextTokens": 28789,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

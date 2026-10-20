@@ -1,8 +1,8 @@
-![[CF - Lecture 4.pdf]]
+![[CF - Lecture 4 1.pdf]]
 
-![[CF - Lecture 4.pdf#page=2|CF - Lecture 4, page 2]]
+![[CF - Lecture 4 1.pdf#page=2|CF - Lecture 4, page 2]]
 
-![[CF - Lecture 4.pdf#page=3|CF - Lecture 4, page 3]]
+![[CF - Lecture 4 1.pdf#page=3|CF - Lecture 4, page 3]]
 
 > [!CARD] What is a financial instrument?
 > A legal obligation or claim having monetary value (e.g. stocks, bonds, mortgages, futures, insurance).
@@ -17,7 +17,7 @@
 > The ownership of a definite cash flow stream.
 
 
-![[CF - Lecture 4.pdf#page=4|CF - Lecture 4, page 4]]
+![[CF - Lecture 4 1.pdf#page=4|CF - Lecture 4, page 4]]
 
 > [!CARD] What risk does the issuer of a fixed-income security pose?
 > The issuer could default (e.g. go bankrupt), so there is a typically small chance the promised income is discontinued or delayed.
@@ -28,7 +28,7 @@
 > [!CARD] What is the general idea of a fixed-income security's cash flow stream?
 > It is fixed except in well-defined contingent circumstances.
 
-![[CF - Lecture 4.pdf#page=5|CF - Lecture 4, page 5]]
+![[CF - Lecture 4 1.pdf#page=5|CF - Lecture 4, page 5]]
 
 > [!CARD] What is an annuity?
 > A contract that pays the holder money periodically according to a fixed schedule (e.g. pension benefits).
@@ -37,7 +37,7 @@
 > $PV = \sum_{k=1}^n d_k A$, where $d_k$ is the discount factor for period $k$.
 
 
-![[CF - Lecture 4.pdf#page=6|CF - Lecture 4, page 6]]
+![[CF - Lecture 4 1.pdf#page=6|CF - Lecture 4, page 6]]
 
 > [!CARD] What is the finite geometric series $S_n = \sum_{k=0}^n x^k$ in closed form?
 > $S_n = \dfrac{1 - x^{n+1}}{1 - x}$.
@@ -49,7 +49,7 @@
 > $S_\infty = \dfrac{1}{1 - x}$, for $|x| < 1$.
 
 
-![[CF - Lecture 4.pdf#page=7|CF - Lecture 4, page 7]]
+![[CF - Lecture 4 1.pdf#page=7|CF - Lecture 4, page 7]]
 
 > [!CARD] What is the present value of an annuity paying $A$ for $n$ periods if the spot rate curve is constant at $r$?
 > $PV = \dfrac{A}{r}\left(1 - \dfrac{1}{(1+r)^n}\right)$.
@@ -61,7 +61,7 @@
 > $s_k = r$ for all $k = 1, \dots, n$, so each payment is discounted as $A/(1+r)^k$.
 
 
-![[CF - Lecture 4.pdf#page=8|CF - Lecture 4, page 8]]
+![[CF - Lecture 4 1.pdf#page=8|CF - Lecture 4, page 8]]
 
 > [!CARD] What is amortization?
 > Replacing a current obligation by periodic payments.
@@ -73,7 +73,7 @@
 > $A = \dfrac{r(1+r)^n PV}{(1+r)^n - 1} = \$22.24$ per month.
 
 
-![[CF - Lecture 4.pdf#page=9|CF - Lecture 4, page 9]]
+![[CF - Lecture 4 1.pdf#page=9|CF - Lecture 4, page 9]]
 
 > [!CARD] What is a bond?
 > An agreement to pay money according to the rules of the issue.
@@ -99,63 +99,63 @@
 > [!CARD] If a bond makes $m$ coupon payments per year, how large is each subannual coupon payment?
 > $C/m$, which is $r_C F / m$.
 
-![[CF - Lecture 4.pdf#page=10|CF - Lecture 4, page 10]]
+![[CF - Lecture 4 1.pdf#page=10|CF - Lecture 4, page 10]]
 
-![[CF - Lecture 4.pdf#page=11|CF - Lecture 4, page 11]]
+![[CF - Lecture 4 1.pdf#page=11|CF - Lecture 4, page 11]]
 
-![[CF - Lecture 4.pdf#page=12|CF - Lecture 4, page 12]]
+![[CF - Lecture 4 1.pdf#page=12|CF - Lecture 4, page 12]]
 
-![[CF - Lecture 4.pdf#page=13|CF - Lecture 4, page 13]]
+![[CF - Lecture 4 1.pdf#page=13|CF - Lecture 4, page 13]]
 
-![[CF - Lecture 4.pdf#page=14|CF - Lecture 4, page 14]]
+![[CF - Lecture 4 1.pdf#page=14|CF - Lecture 4, page 14]]
 
-![[CF - Lecture 4.pdf#page=15|CF - Lecture 4, page 15]]
+![[CF - Lecture 4 1.pdf#page=15|CF - Lecture 4, page 15]]
 
-![[CF - Lecture 4.pdf#page=16|CF - Lecture 4, page 16]]
+![[CF - Lecture 4 1.pdf#page=16|CF - Lecture 4, page 16]]
 
-!![[CF - Lecture 4.pdf#page=17|CF - Lecture 4, page 17]]
+!![[CF - Lecture 4 1.pdf#page=17|CF - Lecture 4, page 17]]
 
 - Inverse dependence between price and yield.
 - The higher the yield, the smaller the discount factor, the smaller the present value and the smaller the price.
 - Can be derived from the formula.
 
-![[CF - Lecture 4.pdf#page=18|CF - Lecture 4, page 18]]
+![[CF - Lecture 4 1.pdf#page=18|CF - Lecture 4, page 18]]
 
 - When the coupon is the same as the yield to maturity, then the price is exactly equal to it's face value.
 - The longer the time to maturity, the more sensitive the price is to a bonds yield.
 - Why does the order of value switch when the YTM exceeds the coupon??
 
-![[CF - Lecture 4.pdf#page=19|CF - Lecture 4, page 19]]
+![[CF - Lecture 4 1.pdf#page=19|CF - Lecture 4, page 19]]
 
-![[CF - Lecture 4.pdf#page=20|CF - Lecture 4, page 20]]
+![[CF - Lecture 4 1.pdf#page=20|CF - Lecture 4, page 20]]
 
-![[CF - Lecture 4.pdf#page=21|CF - Lecture 4, page 21]]
+![[CF - Lecture 4 1.pdf#page=21|CF - Lecture 4, page 21]]
 
-![[CF - Lecture 4.pdf#page=22|CF - Lecture 4, page 22]]
+![[CF - Lecture 4 1.pdf#page=22|CF - Lecture 4, page 22]]
 
-![[CF - Lecture 4.pdf#page=23|CF - Lecture 4, page 23]]
+![[CF - Lecture 4 1.pdf#page=23|CF - Lecture 4, page 23]]
 
-![[CF - Lecture 4.pdf#page=25|CF - Lecture 4, page 25]]
+![[CF - Lecture 4 1.pdf#page=25|CF - Lecture 4, page 25]]
 
-![[CF - Lecture 4.pdf#page=25|CF - Lecture 4, page 25]]
+![[CF - Lecture 4 1.pdf#page=25|CF - Lecture 4, page 25]]
 
-![[CF - Lecture 4.pdf#page=26|CF - Lecture 4, page 26]]
+![[CF - Lecture 4 1.pdf#page=26|CF - Lecture 4, page 26]]
 
-![[CF - Lecture 4.pdf#page=27|CF - Lecture 4, page 27]]
+![[CF - Lecture 4 1.pdf#page=27|CF - Lecture 4, page 27]]
 
-![[CF - Lecture 4.pdf#page=28|CF - Lecture 4, page 28]]
+![[CF - Lecture 4 1.pdf#page=28|CF - Lecture 4, page 28]]
 
-![[CF - Lecture 4.pdf#page=29|CF - Lecture 4, page 29]]
+![[CF - Lecture 4 1.pdf#page=29|CF - Lecture 4, page 29]]
 
-![[CF - Lecture 4.pdf#page=30|CF - Lecture 4, page 30]]
+![[CF - Lecture 4 1.pdf#page=30|CF - Lecture 4, page 30]]
 
-![[CF - Lecture 4.pdf#page=31|CF - Lecture 4, page 31]]
+![[CF - Lecture 4 1.pdf#page=31|CF - Lecture 4, page 31]]
 
-![[CF - Lecture 4.pdf#page=32|CF - Lecture 4, page 32]]
+![[CF - Lecture 4 1.pdf#page=32|CF - Lecture 4, page 32]]
 
-![[CF - Lecture 4.pdf#page=33|CF - Lecture 4, page 33]]
+![[CF - Lecture 4 1.pdf#page=33|CF - Lecture 4, page 33]]
 
-![[CF - Lecture 4.pdf#page=34|CF - Lecture 4, page 34]]
+![[CF - Lecture 4 1.pdf#page=34|CF - Lecture 4, page 34]]
 
-![[CF - Lecture 4.pdf#page=35|CF - Lecture 4, page 35]]
+![[CF - Lecture 4 1.pdf#page=35|CF - Lecture 4, page 35]]
 - We can approximate a change in the price for a small change in the yield.

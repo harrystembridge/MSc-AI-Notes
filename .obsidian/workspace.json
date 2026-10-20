@@ -6,84 +6,54 @@
       {
         "id": "9d0f584170113784",
         "type": "tabs",
+        "dimension": 32.782515991471215,
         "children": [
           {
-            "id": "f8db37c63dd38871",
+            "id": "e1d3a2ec4d35542a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP70053 - Python Programming (PP)/Lecture 3 - Trees.md",
+                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 5 - Convexity, Convergence, and Optimisation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 - Trees"
+              "title": "Lecture 5 - Convexity, Convergence, and Optimisation"
             }
           },
           {
-            "id": "908695dde08480a5",
+            "id": "7646df7d4a245dc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP70053 - Python Programming (PP)/Lecture 4 - Object-Oriented Analysis and Design.md",
+                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 4 - Object-Oriented Analysis and Design"
-            }
-          },
-          {
-            "id": "f12466609aba1071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP70053 - Python Programming (PP)/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Lecture Notes 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "ca77a137a15002bd",
+        "id": "5b12a337eb23d190",
         "type": "tabs",
+        "dimension": 67.21748400852879,
         "children": [
           {
-            "id": "e0691865822f2d1a",
+            "id": "15bf9aa860e9860e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CF - Lecture 4.pdf"
+                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CF - Lecture 4"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ddfb3f424c18a4ff",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "482f5825f7b1cde1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PP - Lecture 4.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "PP - Lecture 4"
+              "title": "MML - Lecture Notes 1"
             }
           }
         ]
@@ -148,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.21875
+    "width": 278.33203125,
+    "collapsed": true
   },
   "right": {
     "id": "d6446a7ea049c22f",
@@ -164,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP70053 - Python Programming (PP)/Untitled.md",
+                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP70053 - Python Programming (PP)/Untitled.md",
+                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -273,9 +244,13 @@
                     {
                       "tabId": "tab-1792505668837-8ao3g6g",
                       "conversationId": "conv-1792505713176-ysog3ba7g"
+                    },
+                    {
+                      "tabId": "tab-1792511136424-7rzre1q",
+                      "conversationId": "conv-1792511150269-cmzd5z0uv"
                     }
                   ],
-                  "activeTabId": "tab-1792505668837-8ao3g6g"
+                  "activeTabId": "tab-1792511136424-7rzre1q"
                 }
               },
               "icon": "bot",
@@ -303,52 +278,52 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f12466609aba1071",
+  "active": "15bf9aa860e9860e",
   "lastOpenFiles": [
-    "CF - Lecture 4.pdf",
-    "COMP70053 - Python Programming (PP)/Untitled.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 1.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 0 - Review and Warm-up.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 5.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 5.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 5.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 4.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 4.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 3.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 3.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 2.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 2.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 1.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 0.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 5 - Convexity, Convergence, and Optimisation.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Equation Sheet.pdf",
+    "cos θ, −sin θ], [sin θ, cos θ.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Equation Sheet.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Resources.md",
+    "COMP70050 - Machine Learning (ML)/Lecture 1 - Regression.md",
+    "COMP70050 - Machine Learning (ML)/Lecture 2 - Classification and Optimisation.md",
+    "COMP70053 - Python Programming (PP)/Resources.md",
     "COMP70053 - Python Programming (PP)/Lecture 4 - Object-Oriented Analysis and Design.md",
     "COMP70053 - Python Programming (PP)/Lecture 3 - Trees.md",
-    "PP - Lecture 4.pdf",
+    "COMP70006 - Computational Finance (CF)/Attachments/CF - Lecture 4 1.pdf",
+    "COMP70053 - Python Programming (PP)/Untitled.md",
+    "COMP70053 - Python Programming (PP)/Attachments/PP - Lecture 4.pdf",
     "COMP70053 - Python Programming (PP)/Lecture 4 -.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 0 - Review and Warm-up.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 1 - Problem Settings & Linear Models.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 5.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Practice Problems 5.pdf",
     "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 4.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Practice Problems 4.pdf",
     "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 3.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Practice Problems 3.pdf",
     "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 2.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Practice Problems 2.pdf",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Practice Problems 1.pdf",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Resources.md",
-    "COMP70006 - Computational Finance (CF)/Attachments/CF - Lecture 3.pdf",
     "COMP70006 - Computational Finance (CF)/Lectures/Lecture 4 - Fixed-Income Securities.md",
-    "COMP70006 - Computational Finance (CF)/Attachments/CF - Lecture 4.pdf",
-    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 3 - The Basic Theory of Interest.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 5 - Convexity, Convergence, and Optimisation.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture 5.pdf",
     "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261020093718.png",
     "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261020093650.png",
     "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261020093642.png",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 4 - Deep Learning and Automatic Differentiation.md",
-    "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 3 - Model-free Monte Carlo Methods.md",
-    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 2 - Mathematical Preliminaries.md",
-    "COMP70050 - Machine Learning (ML)/Lecture 3 - Representation Learning & Neural Networks.md",
-    "COMP70050 - Machine Learning (ML)/Lecture 2 - Classification and Optimisation.md",
-    "COMP70028 - Reinforcement Learning (RL)/Tutorials/Tutorial 2 - Dynamic Programming.md",
-    "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md",
-    "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 2 - Dynamic Programming.md",
-    "COMP70028 - Reinforcement Learning (RL)/Tutorials/Tutorial 1 - Markov Decision Processes.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016153536.png",
     "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016153513.png",
     "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016151820.png",
     "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016152425.png",
     "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016152034.png",
     "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016145128.png",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md",
     "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013105128.png"
   ]
 }

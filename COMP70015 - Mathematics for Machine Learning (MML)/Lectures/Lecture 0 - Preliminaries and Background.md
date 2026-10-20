@@ -69,8 +69,8 @@ A matrix has dimensions $n \times m$ where $n$ is the number of rows and $m$ is 
 
 > [!CARD] What is the rank of a matrix $\boldsymbol{A}$, written $\operatorname{rank}(\boldsymbol{A})$?
 > The number of linearly independent columns (equivalently, rows) of $\boldsymbol{A}$, i.e. the dimension of its column space. For $\boldsymbol{A} \in \mathbb{R}^{n \times m}$, $\operatorname{rank}(\boldsymbol{A}) \le \min(n, m)$.
->
 ^q-sm2e
+
 
 > [!CARD] What is a tensor, and how does it differ from a vector?
 > A tensor is a multi-dimensional array of numbers, generalising scalars, vectors and matrices. A vector is a tensor with one axis (order 1, e.g. $\boldsymbol{v} \in \mathbb{R}^n$), whereas a general tensor can have any number of axes (e.g. order 3: $\boldsymbol{T} \in \mathbb{R}^{n \times m \times k}$).
@@ -85,7 +85,18 @@ A matrix has dimensions $n \times m$ where $n$ is the number of rows and $m$ is 
 >
 ^q-li8z
 
+### Rotation Matrices in $\mathbb{R}^2$
+* A rotation of a vector about the origin by angle $\theta$ (anticlockwise for $\theta > 0$) is the linear map $\boldsymbol{x} \mapsto \boldsymbol{R}(\theta)\boldsymbol{x}$ where:
+$$\boldsymbol{R}(\theta) = \begin{bmatrix} \cos\theta & -\sin\theta \\ \sin\theta & \cos\theta \end{bmatrix}$$
+* The columns are where the basis vectors land: $\boldsymbol{R}\boldsymbol{e}_1 = [\cos\theta, \sin\theta]^\top$ and $\boldsymbol{R}\boldsymbol{e}_2 = [-\sin\theta, \cos\theta]^\top$.
+* Properties:
+	* Orthogonal: $\boldsymbol{R}^\top\boldsymbol{R} = \boldsymbol{I}$, so $\boldsymbol{R}^{-1} = \boldsymbol{R}^\top = \boldsymbol{R}(-\theta)$.
+	* $\det(\boldsymbol{R}) = 1$, so it preserves lengths, angles and orientation (no reflection).
+	* Rotations compose by adding angles: $\boldsymbol{R}(\alpha)\boldsymbol{R}(\beta) = \boldsymbol{R}(\alpha + \beta)$, and in $\mathbb{R}^2$ they commute.
 
+> [!CARD] What is the general form of a rotation matrix in $\mathbb{R}^2$ (anticlockwise by $\theta$), and what are its key properties?
+> $\boldsymbol{R}(\theta) = \begin{bmatrix} \cos\theta & -\sin\theta \\ \sin\theta & \cos\theta \end{bmatrix}$. It is orthogonal ($\boldsymbol{R}^\top\boldsymbol{R} = \boldsymbol{I}$, so $\boldsymbol{R}^{-1} = \boldsymbol{R}^\top = \boldsymbol{R}(-\theta)$) with $\det(\boldsymbol{R}) = 1$, so it preserves lengths and angles. Also $\boldsymbol{R}(\alpha)\boldsymbol{R}(\beta) = \boldsymbol{R}(\alpha+\beta)$.
+^q-rot2
 
 ### Notation
 
@@ -131,7 +142,8 @@ A matrix has dimensions $n \times m$ where $n$ is the number of rows and $m$ is 
 
 > [!CARD] What is the Euclidean ($\ell_2$) norm $\|\boldsymbol{v}\|$ or $\|\boldsymbol{v}\|_2$?
 > $\sqrt{\sum_{i=1}^{n} \boldsymbol{v}_i^2}$
->
+
+
 ^q-zx2s
 
 > [!CARD] What is the $\ell_1$ norm $\|\boldsymbol{v}\|_1$?
