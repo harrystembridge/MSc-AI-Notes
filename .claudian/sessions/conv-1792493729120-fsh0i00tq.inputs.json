@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1792493729120-fsh0i00tq",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792493729172-4ozxv33",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1792493729105-2ib3fyn",
+      "timestamp": 1792493729105,
+      "rawDisplayText": "can you generate cards in the form:\n\n> [!CARD] Question\n> Answer \n\nFor slide 9 of CF - Lecture 4",
+      "canonicalText": "can you generate cards in the form:\n\n> [!CARD] Question\n> Answer \n\nFor slide 9 of CF - Lecture 4",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 4 - Fixed-Income Securities.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "9e3127bb48ebd54a521fb613170e8d285dfad9ebb41764aab6fd185d3ad6438c",
+      "providerUserMessageId": "e1ab34c8-a4e0-4a0d-9e03-b9c9cde67f86",
+      "providerAssistantMessageId": "4636958c-3434-47b4-b718-5f173251e1ab"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792493796871-da1ecsj",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1792493796867-nk4ejj6",
+      "timestamp": 1792493796867,
+      "rawDisplayText": "yes please",
+      "canonicalText": "yes please",
+      "images": [],
+      "contentDigest": "c69fe81c11c5bee50e799b85327f3cba57a5cddc078c1e2599efa2094b1ab46e",
+      "providerUserMessageId": "d88d5fd8-a061-4773-8452-04a465445f74",
+      "providerAssistantMessageId": "c321a8c6-7f26-47ee-a815-9539e583cea9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792493827623-z76213z",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1792493827610-1vshakq",
+      "timestamp": 1792493827610,
+      "rawDisplayText": "make sure the latex is contained by $...$",
+      "canonicalText": "make sure the latex is contained by $...$",
+      "images": [],
+      "contentDigest": "e6816876473b1e3c26ede59946af9824d070bae53424ab27fbb160683069b7d1",
+      "providerUserMessageId": "4e7e736c-b73c-43c0-aafd-f705869f79f4",
+      "providerAssistantMessageId": "f0625f5e-4576-4e7d-96e0-a266ef567b67"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792493887648-7y669hf",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1792493887641-1mxiqiv",
+      "timestamp": 1792493887641,
+      "rawDisplayText": "can you generate cards in the same form for each slide in the deck up to slide 8 where relevant and only where there is actual content. Maximum 4 cards per slide",
+      "canonicalText": "can you generate cards in the same form for each slide in the deck up to slide 8 where relevant and only where there is actual content. Maximum 4 cards per slide",
+      "images": [],
+      "contentDigest": "843eccbba9c062bbfc9408ba6b42e5eff6298bc48b0ceb76cc24ab0237833317",
+      "providerUserMessageId": "5783c1ed-3da5-48ad-ac8f-75de10ad2dab",
+      "providerAssistantMessageId": "56703546-a159-43ec-a9b9-f76fdf26df9e"
+    }
+  ]
+}

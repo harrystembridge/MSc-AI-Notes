@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1792505713176-ysog3ba7g",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792505713228-fjwkvcy",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1792505713158-gd31amh",
+      "timestamp": 1792505713158,
+      "rawDisplayText": "add cards on UML class diagrams like definitions for aggregation and association in the form \n> [!CARD] Question\n> Answer",
+      "canonicalText": "add cards on UML class diagrams like definitions for aggregation and association in the form \n> [!CARD] Question\n> Answer",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70053 - Python Programming (PP)/Lecture 4 -.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "d8014ab569c1ee612e660160a87c875d4ff289f42392166920add68212d5ccff",
+      "providerUserMessageId": "fdbcacdd-bb4a-43ee-b1bf-f250ab8671ef",
+      "providerAssistantMessageId": "99b799e8-7bb1-4138-ad59-80206a143bbc"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792505803359-v9ollon",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1792505803347-7v8eyr8",
+      "timestamp": 1792505803347,
+      "rawDisplayText": "I don't see anything added?",
+      "canonicalText": "I don't see anything added?",
+      "images": [],
+      "contentDigest": "0f4af6ee5b590ed25a4b4276ea5b64963546dc60317ba36e8211c2553e5486a0",
+      "providerUserMessageId": "e767c323-d164-413e-9540-f84dbe44e26c",
+      "providerAssistantMessageId": "a94b3031-6be0-4163-b733-6e7713823be0"
+    }
+  ]
+}

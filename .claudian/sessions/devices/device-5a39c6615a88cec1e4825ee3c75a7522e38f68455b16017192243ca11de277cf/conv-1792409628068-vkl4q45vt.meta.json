@@ -1,0 +1,24 @@
+{
+  "id": "conv-1792409628068-vkl4q45vt",
+  "providerId": "claude",
+  "title": "Purpose of non-linear activation functions",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792409628072,
+  "lastActivityAt": 1792428992210,
+  "sessionId": "a3410dfb-3698-4106-888b-c1b2619b3c71",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "a3410dfb-3698-4106-888b-c1b2619b3c71"
+  },
+  "linkedContentPath": "COMP70050 - Machine Learning (ML)/Lecture 3 - Representation Learning & Neural Networks.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 446,
+    "cacheReadInputTokens": 25423,
+    "contextWindow": 1000000,
+    "contextTokens": 25871,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

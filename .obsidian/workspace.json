@@ -4,54 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "f8f1d1889d640128",
+        "id": "9d0f584170113784",
         "type": "tabs",
         "children": [
           {
-            "id": "82db847cdd47204a",
+            "id": "f8db37c63dd38871",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 2 - Mathematical Preliminaries.md",
+                "file": "COMP70053 - Python Programming (PP)/Lecture 3 - Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2 - Mathematical Preliminaries"
+              "title": "Lecture 3 - Trees"
             }
           },
           {
-            "id": "70a8f216a8224894",
+            "id": "908695dde08480a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 1 - Course Outline.md",
+                "file": "COMP70053 - Python Programming (PP)/Lecture 4 - Object-Oriented Analysis and Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 - Course Outline"
+              "title": "Lecture 4 - Object-Oriented Analysis and Design"
+            }
+          },
+          {
+            "id": "f12466609aba1071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP70053 - Python Programming (PP)/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
-        "id": "9dd0c9bc41ceda83",
+        "id": "ca77a137a15002bd",
         "type": "tabs",
         "children": [
           {
-            "id": "685e4fdfa6f07fd8",
+            "id": "e0691865822f2d1a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP70006 - Computational Finance (CF)/Attachments/Lecture 00 - Computational Finance.pdf"
+                "file": "CF - Lecture 4.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 00 - Computational Finance"
+              "title": "CF - Lecture 4"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ddfb3f424c18a4ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "482f5825f7b1cde1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PP - Lecture 4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "PP - Lecture 4"
             }
           }
         ]
@@ -88,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#examinable",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.7890625
+    "width": 403.21875
   },
   "right": {
     "id": "d6446a7ea049c22f",
@@ -132,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 1 - Course Outline.md",
+                "file": "COMP70053 - Python Programming (PP)/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 1 - Course Outline.md",
+                "file": "COMP70053 - Python Programming (PP)/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -223,23 +255,27 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1789393022800-vq599vw",
-                      "conversationId": "conv-1789393042614-5rgkx7vmy"
+                      "tabId": "tab-1792409597646-7l7quw2",
+                      "conversationId": "conv-1792409628068-vkl4q45vt"
                     },
                     {
-                      "tabId": "tab-1791297471049-9g310xv",
-                      "conversationId": "conv-1791884175072-tfvaetpnl"
+                      "tabId": "tab-1792484308061-j3itc7v",
+                      "conversationId": "conv-1792484316033-eggfodiek"
                     },
                     {
-                      "tabId": "tab-1791901081383-8fy0fbu",
-                      "conversationId": "conv-1791901115515-4f523m8e7"
+                      "tabId": "tab-1792493674834-trgbgcp",
+                      "conversationId": "conv-1792493729120-fsh0i00tq"
                     },
                     {
-                      "tabId": "tab-1792064662066-c2z931m",
-                      "conversationId": "conv-1792064668043-0ck4wjpd3"
+                      "tabId": "tab-1792502929686-uwor41r",
+                      "conversationId": "conv-1792502954189-mh0jsjpu0"
+                    },
+                    {
+                      "tabId": "tab-1792505668837-8ao3g6g",
+                      "conversationId": "conv-1792505713176-ysog3ba7g"
                     }
                   ],
-                  "activeTabId": "tab-1792064662066-c2z931m"
+                  "activeTabId": "tab-1792505668837-8ao3g6g"
                 }
               },
               "icon": "bot",
@@ -267,52 +303,52 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "70a8f216a8224894",
+  "active": "f12466609aba1071",
   "lastOpenFiles": [
-    "COMP70006 - Computational Finance (CF)/Attachments/Lecture 00 - Computational Finance.pdf",
-    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 1 - Course Outline.md",
-    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 3 - The Basic Theory of Interest.md",
-    "COMP70006 - Computational Finance (CF)/Tutorials",
-    "COMP70006 - Computational Finance (CF)/Lectures",
-    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 2 - Mathematical Preliminaries.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture 3.pdf",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 1 - Problem Settings & Linear Models.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/ML Machine Learning-A Probabilistic Perspective.pdf",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/ML Lecture 01 - Slides.pdf",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 2 - Ordinary Least Squares & Generalised Linear Models.md",
-    "COMP70028 - Reinforcement Learning (RL)/Tutorials/Tutorial 1 - Markov Decision Processes.md",
-    "COMP70050 - Machine Learning (ML)/Lecture 2 - Classification and Optimisation.md",
-    "COMP70050 - Machine Learning (ML)/Attachments/ML - Lecture 2 pt B 1.pdf",
-    "COMP70050 - Machine Learning (ML)/Lecture 1 - Regression.md",
-    "COMP70050 - Machine Learning (ML)/Lecture 0 - Introduction & Regression.md",
-    "COMP70050 - Machine Learning (ML)/Attachments/ML - Lecture 2 pt B.pdf",
-    "COMP70050 - Machine Learning (ML)/Attachments/Machine Learning - Regression.pdf",
-    "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/RL - Tutorial 1.pdf",
-    "COMP70053 - Python Programming (PP)/Lecture 2 - Search Algorithms.md",
+    "CF - Lecture 4.pdf",
+    "COMP70053 - Python Programming (PP)/Untitled.md",
+    "COMP70053 - Python Programming (PP)/Lecture 4 - Object-Oriented Analysis and Design.md",
     "COMP70053 - Python Programming (PP)/Lecture 3 - Trees.md",
+    "PP - Lecture 4.pdf",
+    "COMP70053 - Python Programming (PP)/Lecture 4 -.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 0 - Review and Warm-up.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 00 - Review and Warm-up.md",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013105128.png",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013111446.png",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013111441.png",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013111427.png",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013110507.png",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013105540.png",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013105526.png",
-    "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 2 - Dynamic Programming.md",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261012163751.png",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261012163737.png",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261010152910.png",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 1 - Problem Settings & Linear Models.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 5.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Practice Problems 5.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 4.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Practice Problems 4.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 3.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Practice Problems 3.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 2.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Practice Problems 2.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Practice Problems 1.pdf",
     "COMP70015 - Mathematics for Machine Learning (MML)/Resources.md",
-    "Archive/Principles and Practice of Programming/1.3 Introduction to C++.md",
-    "COMP70053 - Python Programming (PP)/Lecture 1 - Writing Efficient Code.md",
-    "COMP70053 - Python Programming (PP)/Resources.md",
-    "Archive/Principles and Practice of Programming/1.1 Computer Systems.md",
-    "Archive/Pre-sessional Work/Pre-sessional Notes.md",
-    "Archive/COMP70100 - Computational Neurodynamics/Topic 1 - Introduction and Motivation.md",
-    "COMP70053 - Python Programming/Introductory Session.md",
-    "Archive/Principles and Practice of Programming/1.4 Testing and Debugging.md"
+    "COMP70006 - Computational Finance (CF)/Attachments/CF - Lecture 3.pdf",
+    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 4 - Fixed-Income Securities.md",
+    "COMP70006 - Computational Finance (CF)/Attachments/CF - Lecture 4.pdf",
+    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 3 - The Basic Theory of Interest.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 5 - Convexity, Convergence, and Optimisation.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture 5.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261020093718.png",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261020093650.png",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261020093642.png",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 4 - Deep Learning and Automatic Differentiation.md",
+    "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 3 - Model-free Monte Carlo Methods.md",
+    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 2 - Mathematical Preliminaries.md",
+    "COMP70050 - Machine Learning (ML)/Lecture 3 - Representation Learning & Neural Networks.md",
+    "COMP70050 - Machine Learning (ML)/Lecture 2 - Classification and Optimisation.md",
+    "COMP70028 - Reinforcement Learning (RL)/Tutorials/Tutorial 2 - Dynamic Programming.md",
+    "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md",
+    "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 2 - Dynamic Programming.md",
+    "COMP70028 - Reinforcement Learning (RL)/Tutorials/Tutorial 1 - Markov Decision Processes.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016153536.png",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016153513.png",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016151820.png",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016152425.png",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016152034.png",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016145128.png",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013105128.png"
   ]
 }

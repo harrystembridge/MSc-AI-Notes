@@ -6,6 +6,16 @@ flashcards:
   q-e5hh: { nid: 1791216040199, hash: jjpw9c7w, sync: kb5m6p6y }
   q-kdx5: { nid: 1791218987477, hash: 5zf7vmmi, sync: xhscvx2h }
 ---
+> [!TODO] TODO
+> - [ ] Add formulas
+>	- [ ] Add formula for bellman equation
+>	- [ ] Add formula for V
+>	- [ ] Add formula for Q etc.
+>- [ ] Add defintions for Anki.
+>- [ ] Run transcript through claude and check nothing else missed
+>- [ ] Redo tutorials 1 and 2 with improved notes
+
+
 
 ![[Reinforcement Learning - Lecture 1.pdf]]
 

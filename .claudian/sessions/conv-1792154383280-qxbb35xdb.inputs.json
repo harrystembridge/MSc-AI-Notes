@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1792154383280-qxbb35xdb",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792154383554-xw5zfxl",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1792154383269-h9dtlyz",
+      "timestamp": 1792154383269,
+      "rawDisplayText": "explain taylor expansion to me",
+      "canonicalText": "explain taylor expansion to me",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 2 - Mathematical Preliminaries.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "9a3a3419ee462de8bec49a605ec6c0dbeaafa3e0753301290e0b8df6ecdd938a",
+      "providerUserMessageId": "408b9c79-02ee-49c1-9485-e9e1de4f6298",
+      "providerAssistantMessageId": "63444771-a8d3-49f7-b024-47f2f08f4040"
+    }
+  ]
+}

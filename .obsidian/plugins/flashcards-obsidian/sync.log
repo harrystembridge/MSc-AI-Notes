@@ -116,3 +116,11 @@
 2026-10-13T14:22:20.009Z [INFO] syncNote ok {"notePath":"COMP70053 - Python Programming/Lecture 3 - Trees.md","okCreates":18,"okUpdates":0,"okDeletes":0,"failedOps":0}
 2026-10-15T12:07:04.940Z [INFO] syncNote start {"notePath":"COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md"}
 2026-10-15T12:07:05.309Z [INFO] syncNote ok {"notePath":"COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 3 - Gradient-Based Optimisation and Hessians.md","okCreates":3,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-19T11:08:45.150Z [INFO] syncNote start {"notePath":"COMP70050 - Machine Learning (ML)/Lecture 3 - Representation Learning & Neural Networks.md"}
+2026-10-19T11:08:47.948Z [INFO] syncNote ok {"notePath":"COMP70050 - Machine Learning (ML)/Lecture 3 - Representation Learning & Neural Networks.md","okCreates":10,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-20T13:30:10.028Z [INFO] syncNote start {"notePath":"COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md"}
+2026-10-20T13:30:13.344Z [INFO] syncNote ok {"notePath":"COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md","okCreates":5,"okUpdates":25,"okDeletes":0,"failedOps":0}
+2026-10-20T13:31:30.504Z [INFO] syncNote start {"notePath":"COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md"}
+2026-10-20T13:31:31.565Z [INFO] syncNote ok {"notePath":"COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-20T14:18:49.659Z [INFO] syncNote start {"notePath":"COMP70053 - Python Programming (PP)/Lecture 4 - Object-Oriented Analysis and Design.md"}
+2026-10-20T14:18:50.448Z [INFO] syncNote ok {"notePath":"COMP70053 - Python Programming (PP)/Lecture 4 - Object-Oriented Analysis and Design.md","okCreates":11,"okUpdates":0,"okDeletes":0,"failedOps":0}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1792493729120-fsh0i00tq",
+  "providerId": "claude",
+  "title": "Generate flashcards for CF Lecture 4 slide 9",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792493729138,
+  "lastActivityAt": 1792493913711,
+  "sessionId": "922bf588-eedf-4c9e-9ef5-833c10389237",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "922bf588-eedf-4c9e-9ef5-833c10389237"
+  },
+  "linkedContentPath": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 4 - Fixed-Income Securities.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2333,
+    "cacheReadInputTokens": 29297,
+    "contextWindow": 1000000,
+    "contextTokens": 31632,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

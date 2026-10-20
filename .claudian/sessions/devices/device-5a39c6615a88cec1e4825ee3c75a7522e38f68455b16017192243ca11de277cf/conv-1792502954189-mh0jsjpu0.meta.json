@@ -1,0 +1,24 @@
+{
+  "id": "conv-1792502954189-mh0jsjpu0",
+  "providerId": "claude",
+  "title": "Create matrix rank flashcard",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792502954207,
+  "lastActivityAt": 1792503766224,
+  "sessionId": "b90c9ad3-cc55-4327-bccb-408b61b2fce5",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "b90c9ad3-cc55-4327-bccb-408b61b2fce5"
+  },
+  "linkedContentPath": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 660,
+    "cacheReadInputTokens": 29707,
+    "contextWindow": 1000000,
+    "contextTokens": 30369,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

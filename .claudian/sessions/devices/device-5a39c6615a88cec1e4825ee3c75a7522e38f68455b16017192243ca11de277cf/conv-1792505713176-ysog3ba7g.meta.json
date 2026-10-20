@@ -1,0 +1,24 @@
+{
+  "id": "conv-1792505713176-ysog3ba7g",
+  "providerId": "claude",
+  "title": "Add UML definition cards",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792505713195,
+  "lastActivityAt": 1792505814545,
+  "sessionId": "789905f1-d2bc-4021-b5ab-9f510daed723",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "789905f1-d2bc-4021-b5ab-9f510daed723"
+  },
+  "linkedContentPath": "COMP70053 - Python Programming (PP)/Lecture 4 - Object-Oriented Analysis and Design.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 269,
+    "cacheReadInputTokens": 24421,
+    "contextWindow": 1000000,
+    "contextTokens": 24692,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

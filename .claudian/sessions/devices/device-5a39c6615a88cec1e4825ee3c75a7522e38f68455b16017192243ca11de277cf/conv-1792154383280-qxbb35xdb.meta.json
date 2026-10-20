@@ -1,0 +1,24 @@
+{
+  "id": "conv-1792154383280-qxbb35xdb",
+  "providerId": "claude",
+  "title": "Taylor expansion explained",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792154383304,
+  "lastActivityAt": 1792154399739,
+  "sessionId": "89e90043-d302-4514-a4a7-1ffdfc2d2c7a",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "89e90043-d302-4514-a4a7-1ffdfc2d2c7a"
+  },
+  "linkedContentPath": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 2 - Mathematical Preliminaries.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 18621,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 18623,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

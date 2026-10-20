@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1792502954189-mh0jsjpu0",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792502954236-o6lls6l",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1792502954176-nszzc61",
+      "timestamp": 1792502954176,
+      "rawDisplayText": "add a card on the rank of a matrix in the form:\n\n> [!CARD] What is the transpose of $\\boldsymbol{v}$, written $\\boldsymbol{v}^\\top$?\n> The transpose of $\\boldsymbol{v}$.\n>",
+      "canonicalText": "add a card on the rank of a matrix in the form:\n\n> [!CARD] What is the transpose of $\\boldsymbol{v}$, written $\\boldsymbol{v}^\\top$?\n> The transpose of $\\boldsymbol{v}$.\n>",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md"
+        },
+        "editorSelection": {
+          "notePath": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md",
+          "mode": "selection",
+          "selectedText": "> [!CARD] What is the transpose of $\\boldsymbol{v}$, written $\\boldsymbol{v}^\\top$?\n> The transpose of $\\boldsymbol{v}$.\n>",
+          "lineCount": 3,
+          "startLine": 66
+        }
+      },
+      "images": [],
+      "contentDigest": "b94a2496b2ca9cf547765e29b4ef3734698a6264e3359e47ccc9ecfcbdb19855",
+      "providerUserMessageId": "d09b1a86-462f-40b4-9f45-97b42abbf9d7",
+      "providerAssistantMessageId": "c7ff16ae-19bd-43c8-9500-547d432a4fbb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792503051503-99viybb",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1792503051493-2abio5k",
+      "timestamp": 1792503051493,
+      "rawDisplayText": "let's also add one for the definition of a tensor vs a vector",
+      "canonicalText": "let's also add one for the definition of a tensor vs a vector",
+      "images": [],
+      "contentDigest": "ca71138fce546d18b256f6fcea815cea25ca08090bcb85f7a2cd99cd636e378d",
+      "providerUserMessageId": "83a56226-4c63-473b-be44-5cd80a1c6422",
+      "providerAssistantMessageId": "595d55b4-612d-43cc-ab58-467f2c70737f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792503101996-k91ghcs",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1792503101982-6amkmv0",
+      "timestamp": 1792503101982,
+      "rawDisplayText": "also one on the dot product and matrix product",
+      "canonicalText": "also one on the dot product and matrix product",
+      "images": [],
+      "contentDigest": "8f1c9f9664e8ecf796846020137b59564713fbf480fe8266a0379defcd58d3ff",
+      "providerUserMessageId": "ed49407d-4a80-435c-8c9a-a203791156e6",
+      "providerAssistantMessageId": "59cf1009-4547-4d36-aba1-5765a8e8ba5e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792503748958-gtildfs",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1792503748946-c5vr655",
+      "timestamp": 1792503748946,
+      "rawDisplayText": "Which of the following set of vectors are basis for R 2\n\nwrite a small card about linear independence on this",
+      "canonicalText": "Which of the following set of vectors are basis for R 2\n\nwrite a small card about linear independence on this",
+      "images": [],
+      "contentDigest": "08ae57329f26e9bcff9d62c36c80716e83a55803f75d6b05e7cf94afcea511ec",
+      "providerUserMessageId": "a0c1dd69-ff69-4ce1-963d-9857334eff77",
+      "providerAssistantMessageId": "80c6bede-af15-4544-85ee-5081da07f306"
+    }
+  ]
+}

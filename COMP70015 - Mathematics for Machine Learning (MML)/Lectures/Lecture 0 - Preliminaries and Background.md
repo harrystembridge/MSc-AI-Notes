@@ -3,31 +3,37 @@ flashcards:
   q-dbap: { hash: kk5dpa4b }
   q-cieb: { hash: kk5dpa4b }
   q-in8b: { hash: kk5dpa4b }
-  q-q7xw: { nid: 1791466717622, hash: ge82ex87, sync: mizfv4tr }
-  q-thrf: { nid: 1791467463240, hash: h7g2v59z, sync: xgjrmeqg }
-  q-sfmk: { nid: 1791467463255, hash: nmp4efwq, sync: mewjqxfc }
-  q-8gzi: { nid: 1791467926715, hash: 2fnv7ai4, sync: 6yx5tzkb }
-  q-ed6t: { nid: 1791467926737, hash: 8sfsbz5a, sync: wusf496x }
-  q-6bk4: { nid: 1791467926756, hash: gxeq27qp, sync: jzvj5gj3 }
-  q-ixry: { nid: 1791467926781, hash: afgk9hme, sync: kqp2prmr }
-  q-9efk: { nid: 1791467926806, hash: 3pd8riiu, sync: rw9anhcw }
-  q-gm5t: { nid: 1791467926831, hash: e6wad5y5, sync: a6tvvwpg }
-  q-ahy7: { nid: 1791467926857, hash: 3apxdszz, sync: 6kd83w66 }
-  q-cpb6: { nid: 1791467926881, hash: sc96v2sj, sync: w28u9957 }
-  q-zx2s: { nid: 1791467926908, hash: 8f6v9zhz, sync: 4hk657fe }
-  q-pziq: { nid: 1791467926933, hash: z7ag8yp3, sync: ek6jr93x }
-  q-8yh7: { nid: 1791467926958, hash: ucyvrwyv, sync: dswyb9zt }
-  q-8sxx: { nid: 1791467926984, hash: sbkkxhcz, sync: hs6egrd9 }
-  q-asri: { nid: 1791467927009, hash: 6ftjjqmm, sync: 3qjktwjr }
-  q-v392: { nid: 1791467927034, hash: pnhu6mnk, sync: 3x4dvwq9 }
-  q-an2g: { nid: 1791467927058, hash: gehvvmuq, sync: gq4qq9g9 }
-  q-diyg: { nid: 1791467927084, hash: 6jj79ver, sync: uphbw43v }
-  q-a68q: { nid: 1791467927109, hash: yemiu8bu, sync: rhbak3gh }
-  q-bj8q: { nid: 1791467927134, hash: uisretrh, sync: 6e7cxc3y }
-  q-jc4x: { nid: 1791467927159, hash: s7e8e28q, sync: sfzynbqr }
-  q-5nba: { nid: 1791467927184, hash: bknpn42b, sync: 8tbxf9em }
-  q-5aht: { nid: 1791467927208, hash: anjkphz4, sync: 3d6bzyyj }
-  q-rf8y: { nid: 1791467927235, hash: zcvuzyqd, sync: x8d38esk }
+  q-q7xw: { nid: 1791466717622, hash: ge82ex87, sync: eanimryz }
+  q-thrf: { nid: 1791467463240, hash: h7g2v59z, sync: 9t96aqe8 }
+  q-sfmk: { nid: 1791467463255, hash: nmp4efwq, sync: 8siwnczk }
+  q-8gzi: { nid: 1791467926715, hash: mgdvcxa8, sync: teefk265 }
+  q-ed6t: { nid: 1791467926737, hash: nzq2kqxv, sync: qxhrqvdg }
+  q-6bk4: { nid: 1791467926756, hash: 83qwqwba, sync: tctty4bt }
+  q-ixry: { nid: 1791467926781, hash: pbbi76pk, sync: m8zxjpxc }
+  q-9efk: { nid: 1791467926806, hash: fv37fgw9, sync: uhu5qtht }
+  q-gm5t: { nid: 1791467926831, hash: ss3maswt, sync: zkbsgk8j }
+  q-ahy7: { nid: 1791467926857, hash: a9cmgx59, sync: kr73kjpr }
+  q-cpb6: { nid: 1791467926881, hash: 9shrcu94, sync: y79vq2hq }
+  q-zx2s: { nid: 1791467926908, hash: 8zmcm8rk, sync: pzumai4p }
+  q-pziq: { nid: 1791467926933, hash: 7nj4er9s, sync: h5bjpimh }
+  q-8yh7: { nid: 1791467926958, hash: 2n6n49ys, sync: v9y58pxf }
+  q-8sxx: { nid: 1791467926984, hash: 73cuyrqt, sync: 39j96phs }
+  q-asri: { nid: 1791467927009, hash: 6k3rnunt, sync: 4nce3ajx }
+  q-v392: { nid: 1791467927034, hash: 4xaba7nv, sync: qhnjsg6x }
+  q-an2g: { nid: 1791467927058, hash: y7kinuue, sync: cq84da4m }
+  q-diyg: { nid: 1791467927084, hash: nx6hfbwv, sync: 3zh67r86 }
+  q-a68q: { nid: 1791467927109, hash: vwcfv5av, sync: 76gwsfzd }
+  q-bj8q: { nid: 1791467927134, hash: jr4nm5ag, sync: nkv9sryp }
+  q-jc4x: { nid: 1791467927159, hash: d7nbvkt4, sync: tncgx7f6 }
+  q-5nba: { nid: 1791467927184, hash: p64ckt9e, sync: 38jfdjn5 }
+  q-5aht: { nid: 1791467927208, hash: wkmnruf3, sync: jqzaap4p }
+  q-rf8y: { nid: 1791467927235, hash: 6685xcud, sync: i8yq6mh6 }
+  q-sm2e: { nid: 1792503010422, hash: tfdc2xwe, sync: rzym7y82 }
+  q-hf6c: { nid: 1792503010552, hash: awbceumq, sync: dgx4v7vy }
+  q-ubex: { nid: 1792503010642, hash: qb656gmu, sync: 88sc8nf3 }
+  q-56tu: { nid: 1792503010692, hash: vfazsndp, sync: hs6xae2e }
+  q-tgqp: { nid: 1792503010776, hash: 4s9mnzt2, sync: c5xg2wad }
+  q-5ts9: { nid: 1792503091326, hash: c67ghmqk, sync: fh6mwcdq }
 ---
 
 ![[Mathematics for ML - Lecture 00.pdf]]
@@ -60,6 +66,26 @@ A matrix has dimensions $n \times m$ where $n$ is the number of rows and $m$ is 
 > With dimensions $\mathbf{C} \in \mathbb{R}^{n\times k}$
 > 
 ^q-sfmk
+
+> [!CARD] What is the rank of a matrix $\boldsymbol{A}$, written $\operatorname{rank}(\boldsymbol{A})$?
+> The number of linearly independent columns (equivalently, rows) of $\boldsymbol{A}$, i.e. the dimension of its column space. For $\boldsymbol{A} \in \mathbb{R}^{n \times m}$, $\operatorname{rank}(\boldsymbol{A}) \le \min(n, m)$.
+>
+^q-sm2e
+
+> [!CARD] What is a tensor, and how does it differ from a vector?
+> A tensor is a multi-dimensional array of numbers, generalising scalars, vectors and matrices. A vector is a tensor with one axis (order 1, e.g. $\boldsymbol{v} \in \mathbb{R}^n$), whereas a general tensor can have any number of axes (e.g. order 3: $\boldsymbol{T} \in \mathbb{R}^{n \times m \times k}$).
+^q-5ts9
+
+> [!CARD] What is the difference between the dot product and the matrix product?
+> The dot product takes two vectors of the same length and returns a scalar: $\boldsymbol{u} \cdot \boldsymbol{v} = \boldsymbol{u}^\top \boldsymbol{v} = \sum_{i=1}^{n} \boldsymbol{u}_i \boldsymbol{v}_i$. The matrix product takes $\boldsymbol{A} \in \mathbb{R}^{n \times m}$ and $\boldsymbol{B} \in \mathbb{R}^{m \times k}$ and returns a matrix $\boldsymbol{C} \in \mathbb{R}^{n \times k}$, where each entry $\boldsymbol{C}_{i,j}$ is the dot product of row $i$ of $\boldsymbol{A}$ with column $j$ of $\boldsymbol{B}$
+^q-dp3x
+
+> [!CARD] What is linear independence, and how do we use it to check whether a set of vectors is a basis for $\mathbb{R}^2$?
+> Vectors $\boldsymbol{v}_1, \dots, \boldsymbol{v}_k$ are linearly independent if $c_1\boldsymbol{v}_1 + \dots + c_k\boldsymbol{v}_k = \mathbf{0}$ only when all $c_i = 0$ (no vector is a combination of the others). A set is a basis for $\mathbb{R}^2$ iff it has exactly 2 vectors that are linearly independent, i.e. the matrix with them as columns has $\operatorname{rank} = 2$ (non-zero determinant). Sets with 3+ vectors are always dependent, and sets with 1 vector cannot span.
+>
+^q-li8z
+
+
 
 ### Notation
 
@@ -198,17 +224,21 @@ $$\nabla f = \begin{bmatrix} \frac{\partial f_1}{\partial x_1} & \frac{\partial 
 > 1. **Non-negativity**: $P(A) \geq 0$ for all events $A$
 > 2. **Normalization**: $P(\Omega) = 1$
 > 3. **Additivity**: if $A \cap B = \emptyset$, then $P(A \cup B) = P(A) + P(B)$
+^q-hf6c
 
 > [!CARD] How can we show the independence of events?
 > $P(A\cup B) = P(A)\times P(B)$
+^q-ubex
 
 > [!CARD] How to calculate the cumulative probability of a continuous random variable being between two values i.e. $P(a \leq X \leq b)$
 > $P(a \leq X \leq b) = \int_a^b f(x)\,dx$
 > where $f(x)$ is the probability density function (pdf) of $X$.
+^q-56tu
 
 >[!CARD] How to calculate the variance of a continuous random variable?
 >$V[X] = E[X^2] - E[X]^2$
 >where $E[X] = \int_a^b xf(x)\,dx$
+^q-tgqp
 
 
 

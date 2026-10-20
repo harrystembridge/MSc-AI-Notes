@@ -1,0 +1,24 @@
+{
+  "id": "conv-1792484316033-eggfodiek",
+  "providerId": "claude",
+  "title": "Convert image to LaTeX",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792484316040,
+  "lastActivityAt": 1792487008862,
+  "sessionId": "8519e1d7-8c44-4904-9ca0-e36ff8e7fae1",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "8519e1d7-8c44-4904-9ca0-e36ff8e7fae1"
+  },
+  "linkedContentPath": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 5 - Convexity, Convergence, and Optimisation.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 492,
+    "cacheReadInputTokens": 22868,
+    "contextWindow": 1000000,
+    "contextTokens": 23362,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}
