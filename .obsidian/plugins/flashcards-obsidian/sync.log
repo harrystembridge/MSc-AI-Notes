@@ -126,3 +126,11 @@
 2026-10-20T14:18:50.448Z [INFO] syncNote ok {"notePath":"COMP70053 - Python Programming (PP)/Lecture 4 - Object-Oriented Analysis and Design.md","okCreates":11,"okUpdates":0,"okDeletes":0,"failedOps":0}
 2026-10-20T14:39:03.113Z [INFO] syncNote start {"notePath":"COMP70053 - Python Programming (PP)/Lecture 4 - Object-Oriented Analysis and Design.md"}
 2026-10-20T14:39:03.252Z [INFO] syncNote ok (no plan ops after reconciliation) {"notePath":"COMP70053 - Python Programming (PP)/Lecture 4 - Object-Oriented Analysis and Design.md","identityWritesApplied":0,"mediaErrors":0}
+2026-10-20T17:29:46.577Z [INFO] syncNote start {"notePath":"COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 5 - Convexity, Convergence, and Optimisation.md"}
+2026-10-20T17:29:47.101Z [INFO] syncNote ok {"notePath":"COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 5 - Convexity, Convergence, and Optimisation.md","okCreates":5,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-23T09:42:41.181Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-23T10:11:21.571Z [INFO] syncNote start {"notePath":"COMP70050 - Machine Learning (ML)/Lecture 3 - Representation Learning & Neural Networks.md"}
+2026-10-23T10:11:22.555Z [INFO] syncNote ok {"notePath":"COMP70050 - Machine Learning (ML)/Lecture 3 - Representation Learning & Neural Networks.md","okCreates":8,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-24T15:11:09.193Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-26T16:40:45.970Z [INFO] syncNote start {"notePath":"COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md"}
+2026-10-26T16:40:47.496Z [INFO] syncNote ok {"notePath":"COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md","okCreates":2,"okUpdates":0,"okDeletes":0,"failedOps":0}

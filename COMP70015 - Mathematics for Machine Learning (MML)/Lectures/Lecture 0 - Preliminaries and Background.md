@@ -203,7 +203,7 @@ $$\boldsymbol{R}(\theta) = \begin{bmatrix} \cos\theta & -\sin\theta \\ \sin\thet
 
 > [!CARD] What is $\operatorname{tr}(\boldsymbol{S})$?
 > The trace of the square matrix $\boldsymbol{S}$.
->
+> Where the trace is the sum of all it's diagonal entries.
 ^q-5aht
 
 > [!CARD] What do $\det(\boldsymbol{S})$ and $|\boldsymbol{S}|$ denote?

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1793031711066-c8hep0kqf",
+  "providerId": "claude",
+  "title": "Create Obsidian table for RL methods",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793031711093,
+  "lastActivityAt": 1793034442905,
+  "sessionId": "a0922f36-1a8b-49bd-8d43-4b0172e916c1",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "a0922f36-1a8b-49bd-8d43-4b0172e916c1"
+  },
+  "linkedContentPath": "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 9141,
+    "cacheReadInputTokens": 11945,
+    "contextWindow": 1000000,
+    "contextTokens": 21088,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

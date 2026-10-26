@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1793031711066-c8hep0kqf",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793031711122-cbuhgox",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1793031711058-omvyvbu",
+      "timestamp": 1793031711058,
+      "rawDisplayText": "Property Dynamic Programming Monte Carlo Temporal Difference Target Expected value Gt Rt+1 + γV(St+1) Bootstraps Yes No Yes Sampling No Yes Yes Model Required Yes No No Online Learning Yes No Yes Episode Completion Not needed Required Not needed\n\nLet's create a table for this in obsidian I can copy and paste in",
+      "canonicalText": "Property Dynamic Programming Monte Carlo Temporal Difference Target Expected value Gt Rt+1 + γV(St+1) Bootstraps Yes No Yes Sampling No Yes Yes Model Required Yes No No Online Learning Yes No Yes Episode Completion Not needed Required Not needed\n\nLet's create a table for this in obsidian I can copy and paste in",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "d7ced1b98bf3164437309ff9f3941512a7d56fc49e9f04cbccf57fd559fab525",
+      "providerUserMessageId": "87cf5add-90c7-44af-b41d-4042c0c3728b",
+      "providerAssistantMessageId": "be0a677a-f9f9-4732-bffb-c7e85aea0767"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793034438885-hixcqsq",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1793034438878-tcb3uyv",
+      "timestamp": 1793034438878,
+      "rawDisplayText": "SARSA update: Q(St, At) ← Q(St, At) + α[Rt+1 + γQ(St+1, At+1) − Q(St, At)] 🤔 “What would happen if I follow my current policy?” Q-learning update: Q(St, At) ← Q(St, At) + α[Rt+1 + γ max a Q(St+1, a) − Q(St, At)] 🤔 “What would happen if I acted optimally from now on?” format with latex for me",
+      "canonicalText": "SARSA update: Q(St, At) ← Q(St, At) + α[Rt+1 + γQ(St+1, At+1) − Q(St, At)] 🤔 “What would happen if I follow my current policy?” Q-learning update: Q(St, At) ← Q(St, At) + α[Rt+1 + γ max a Q(St+1, a) − Q(St, At)] 🤔 “What would happen if I acted optimally from now on?” format with latex for me",
+      "context": {
+        "editorSelection": {
+          "notePath": "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md",
+          "mode": "selection",
+          "selectedText": "SARSA update: Q(St, At) ← Q(St, At) + α[Rt+1 + γQ(St+1, At+1) − Q(St, At)] 🤔 “What would happen if I follow my current policy?” Q-learning update: Q(St, At) ← Q(St, At) + α[Rt+1 + γ max a Q(St+1, a) − Q(St, At)] 🤔 “What would happen if I acted optimally from now on?”",
+          "lineCount": 1,
+          "startLine": 128
+        }
+      },
+      "images": [],
+      "contentDigest": "337dc758a54e8f91bbdfa6e7dfe65967a772d8979ebfbc8becd7293cac3df005",
+      "providerUserMessageId": "63310cd1-ccc3-4b77-95c1-6eb1795c7d4e",
+      "providerAssistantMessageId": "e1cba91d-630f-4f0c-813c-2896c0df0857"
+    }
+  ]
+}

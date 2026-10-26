@@ -4,56 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "9d0f584170113784",
+        "id": "4b5b9837a2afe8db",
         "type": "tabs",
-        "dimension": 32.782515991471215,
+        "dimension": 50,
         "children": [
           {
-            "id": "e1d3a2ec4d35542a",
+            "id": "05d43e3a1b0b7b2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 5 - Convexity, Convergence, and Optimisation.md",
+                "file": "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5 - Convexity, Convergence, and Optimisation"
-            }
-          },
-          {
-            "id": "7646df7d4a245dc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture Notes 1"
+              "title": "Lecture 4 - Temporal Difference Methods"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "5b12a337eb23d190",
+        "id": "d76966a9593bde64",
         "type": "tabs",
-        "dimension": 67.21748400852879,
+        "dimension": 50,
         "children": [
           {
-            "id": "15bf9aa860e9860e",
+            "id": "d073e11e7516a1d7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 1.pdf"
+                "file": "COMP70028 - Reinforcement Learning (RL)/Attachments/RL - Lecture 4.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "MML - Lecture Notes 1"
+              "title": "RL - Lecture 4"
             }
           }
         ]
@@ -118,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.33203125,
+    "width": 247.1484375,
     "collapsed": true
   },
   "right": {
@@ -135,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 1.pdf",
+                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 5 - Convexity, Convergence, and Optimisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 1.pdf",
+                "file": "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 5 - Convexity, Convergence, and Optimisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -226,31 +211,20 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1792409597646-7l7quw2",
-                      "conversationId": "conv-1792409628068-vkl4q45vt"
+                      "tabId": "tab-1792833820546-skcxuy6",
+                      "conversationId": "conv-1792833836648-ti3yrrlua"
                     },
                     {
-                      "tabId": "tab-1792484308061-j3itc7v",
-                      "conversationId": "conv-1792484316033-eggfodiek"
+                      "tabId": "tab-1793016668816-c9bcalf",
+                      "conversationId": null,
+                      "draftModel": "sonnet"
                     },
                     {
-                      "tabId": "tab-1792493674834-trgbgcp",
-                      "conversationId": "conv-1792493729120-fsh0i00tq"
-                    },
-                    {
-                      "tabId": "tab-1792502929686-uwor41r",
-                      "conversationId": "conv-1792502954189-mh0jsjpu0"
-                    },
-                    {
-                      "tabId": "tab-1792505668837-8ao3g6g",
-                      "conversationId": "conv-1792505713176-ysog3ba7g"
-                    },
-                    {
-                      "tabId": "tab-1792511136424-7rzre1q",
-                      "conversationId": "conv-1792511150269-cmzd5z0uv"
+                      "tabId": "tab-1793031695073-ofaai6z",
+                      "conversationId": "conv-1793031711066-c8hep0kqf"
                     }
                   ],
-                  "activeTabId": "tab-1792511136424-7rzre1q"
+                  "activeTabId": "tab-1793031695073-ofaai6z"
                 }
               },
               "icon": "bot",
@@ -278,52 +252,52 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "15bf9aa860e9860e",
+  "active": "ab3c409d1c7cd8fc",
   "lastOpenFiles": [
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/RL - Lecture 4.pdf",
+    "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md",
+    "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 3 - Model-free Monte Carlo Methods.md",
+    "COMP70028 - Reinforcement Learning (RL)/Tutorials/Tutorial 3 - Model-Free Monte Carlo Methods.md",
+    "Careers/McKinsey Interview Prep.md",
+    "COMP70050 - Machine Learning (ML)/Lecture 4 - Training Deep Networks & Convolutional Networks.md",
+    "Careers",
+    "COMP70050 - Machine Learning (ML)/Attachments/ML - Lecture 4.pdf",
+    "COMP70050 - Machine Learning (ML)/Lecture 3 - Representation Learning & Neural Networks.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 2 - Ordinary Least Squares & Generalised Linear Models.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 1 - Problem Settings & Linear Models.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/RL - Tutorial 3.pdf",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Scan from 2026-10-24 02_02_14 PM.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 6 - Concentration Inequalities and Generalisation.md",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/RL - Lecture 3.pdf",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/tutorial_3_solutions.pdf",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Reinforcement Learning - Lecture 1.pdf",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261024105053.png",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261024105046.png",
+    "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md",
+    "COMP70028 - Reinforcement Learning (RL)/Tutorials/Tutorial 2 - Dynamic Programming.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture 6.pdf",
+    "COMP70028 - Reinforcement Learning (RL)/Attachments/RL - Lecture 2.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Untitled.md",
+    "COMP70050 - Machine Learning (ML)/Attachments/Pasted image 20261023141744.png",
+    "COMP70050 - Machine Learning (ML)/Attachments/Pasted image 20261023141018.png",
+    "COMP70050 - Machine Learning (ML)/Attachments/Pasted image 20261023140714.png",
+    "COMP70050 - Machine Learning (ML)/Attachments/Pasted image 20261023140457.png",
+    "COMP70050 - Machine Learning (ML)/Attachments/Pasted image 20261023140321.png",
+    "COMP70050 - Machine Learning (ML)/Attachments/Pasted image 20261023111002.png",
+    "COMP70050 - Machine Learning (ML)/Attachments/Pasted image 20261023110620.png",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 5 - Convexity, Convergence, and Optimisation.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 1.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 0 - Review and Warm-up.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 5.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 5.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 5.pdf",
     "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 4.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 4.pdf",
     "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 3.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 3.pdf",
     "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 2.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 2.pdf",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 1.pdf",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture Notes 0.pdf",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 5 - Convexity, Convergence, and Optimisation.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 0 - Preliminaries and Background.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Equation Sheet.pdf",
     "cos θ, −sin θ], [sin θ, cos θ.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Equation Sheet.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Resources.md",
-    "COMP70050 - Machine Learning (ML)/Lecture 1 - Regression.md",
-    "COMP70050 - Machine Learning (ML)/Lecture 2 - Classification and Optimisation.md",
-    "COMP70053 - Python Programming (PP)/Resources.md",
-    "COMP70053 - Python Programming (PP)/Lecture 4 - Object-Oriented Analysis and Design.md",
-    "COMP70053 - Python Programming (PP)/Lecture 3 - Trees.md",
-    "COMP70006 - Computational Finance (CF)/Attachments/CF - Lecture 4 1.pdf",
-    "COMP70053 - Python Programming (PP)/Untitled.md",
-    "COMP70053 - Python Programming (PP)/Attachments/PP - Lecture 4.pdf",
-    "COMP70053 - Python Programming (PP)/Lecture 4 -.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 1 - Problem Settings & Linear Models.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 4.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 3.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Practice Problems/Practice Problems 2.md",
-    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 4 - Fixed-Income Securities.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261020093718.png",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261020093650.png",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261020093642.png",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016153536.png",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016153513.png",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016151820.png",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016152425.png",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016152034.png",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261016145128.png",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261013105128.png"
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261020093718.png"
   ]
 }

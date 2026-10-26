@@ -1,0 +1,23 @@
+{
+  "id": "conv-1792748891447-ph6odu9iz",
+  "providerId": "claude",
+  "title": "Generate flashcards from image",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792748891488,
+  "lastActivityAt": 1792748895685,
+  "sessionId": "b8b65cca-2378-408e-ac07-2dadc9008c05",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "b8b65cca-2378-408e-ac07-2dadc9008c05"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 19353,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 19355,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

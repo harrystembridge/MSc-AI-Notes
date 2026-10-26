@@ -1,0 +1,24 @@
+{
+  "id": "conv-1792833836648-ti3yrrlua",
+  "providerId": "claude",
+  "title": "Episodic tasks in reinforcement learning",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792833836655,
+  "lastActivityAt": 1793016599117,
+  "sessionId": "dec68693-1aea-497e-8b36-c724163176bf",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "dec68693-1aea-497e-8b36-c724163176bf"
+  },
+  "linkedContentPath": "COMP70028 - Reinforcement Learning (RL)/Tutorials/Tutorial 3 - Model-Free Monte Carlo Methods.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 24327,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 24329,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

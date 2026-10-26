@@ -10,6 +10,14 @@ flashcards:
   q-8ukv: { nid: 1792408127121, hash: xvf4cjq5, sync: bauv8zrf }
   q-a4m3: { nid: 1792408127275, hash: hfrssmsm, sync: 7nvbv982 }
   q-mhht: { nid: 1792408127315, hash: 5rf2kmvy, sync: v2mxwckg }
+  q-2i3m: { nid: 1792750282172, hash: z8ed6ghe, sync: rsgj26z2 }
+  q-35kf: { nid: 1792750282219, hash: 68wugj4e, sync: 849y3vti }
+  q-icc7: { nid: 1792750282265, hash: 7t3ymfy5, sync: kp6bk9br }
+  q-u5ia: { nid: 1792750282316, hash: xzjrpfis, sync: kb7ev9p2 }
+  q-praj: { nid: 1792750282362, hash: d5p94gjn, sync: uujydzeb }
+  q-28pr: { nid: 1792750282418, hash: 7ef9r488, sync: 6trv27e2 }
+  q-2upj: { nid: 1792750282466, hash: kdyeqsce, sync: n68qmzfs }
+  q-4pkt: { nid: 1792750282515, hash: sxsrks9t, sync: ddk67nb3 }
 ---
 
 ![[ML - Lecture 3.pdf]]
@@ -216,6 +224,7 @@ We can't use a step perceptron as it is not differentiable.
 
 > [!CARD] Why do we use non-linear activation functions in neural networks?
 > Without non-linear activations, stacking layers would just collapse into a single linear transformation, so the network could only learn linear decision boundaries. Non-linearities let it model complex, non-linear functions.
+^q-2i3m
 
 ![[ML - Lecture 3.pdf#page=54|ML - Lecture 3, page 54]]
 
@@ -230,6 +239,7 @@ We can't use a step perceptron as it is not differentiable.
 
 > [!CARD] Affine Transformation
 > Affine means a linear transformation plus a bias/translation term (e.g., y = Wx + b), so it's linear in the weights but doesn't have to pass through the origin.
+^q-35kf
 
 
 ![[ML - Lecture 3.pdf#page=58|ML - Lecture 3, page 58]]
@@ -267,3 +277,144 @@ But how can we improve generalisation... we can use multiple hidden layers in th
 ![[ML - Lecture 3.pdf#page=68|ML - Lecture 3, page 68]]
 
 - In real life we have much deeper neural network and much higher dimension feature space.
+
+## Backpropogation
+![[ML - Lecture 3.pdf#page=73|ML - Lecture 3, page 73]]
+
+> [!CARD] What are parameters in a neural network?
+> The weights and biases, which are shared across examples.
+^q-icc7
+
+> [!CARD] What are activations?
+> The intermediate values computed for one example.
+^q-u5ia
+
+> [!CARD] What is the difference between parameters and activations in terms of scope?
+> Parameters are shared across all examples; activations are specific to a single example.
+^q-praj
+
+> [!CARD] What does learning change?
+> The parameters, using a training dataset.
+^q-28pr
+
+> [!CARD] What does inference do with the parameters?
+> It holds them fixed and computes new activations.
+^q-2upj
+
+> [!CARD] During learning vs. inference, which is updated and which is fixed?
+> Learning updates the parameters; inference keeps them fixed and only computes new activations.
+^q-4pkt
+
+
+$$
+\mathbf{x} = (x_1, x_2, \dots, x_D)^\top \in \mathbb{R}^D,
+\qquad \mathbf{y} \ \text{(desired output / ground truth)}\\
+\\
+\mathbf{x}
+\xrightarrow{\ \text{linear},\, V\ }
+\mathbf{z}
+\xrightarrow{\ \sigma(\cdot)\ }
+\mathbf{a}
+\xrightarrow{\ \text{linear},\, W\ }
+\hat{\mathbf{y}}
+\ \longleftrightarrow\ 
+\mathbf{y}
+$$
+$$
+\begin{aligned}
+\mathbf{z} &= V\mathbf{x} && \text{(first linear layer)} \\
+\mathbf{a} &= \sigma(\mathbf{z}) && \text{(activations at the hidden layer)} \\
+\hat{\mathbf{y}} &= W\mathbf{a} && \text{(second linear layer, predicted output)} \\
+\mathcal{L} &= \mathcal{L}(\hat{\mathbf{y}}, \mathbf{y}) && \text{(compare prediction with ground truth)}
+\end{aligned}
+$$
+
+![[ML - Lecture 3.pdf#page=75|ML - Lecture 3, page 75]]
+
+- As ever we are attempting to minimise the loss.
+- At each stage, we take the output from the previous stage, and provide it as input to the next stage.
+- Back-propagation
+
+**Backpropagation** is an algorithm for efficiently computing the gradient of the loss with respect to every parameter in a neural network.
+
+**Backpropagation** is an algorithm that computes the gradient of the loss with respect to all of a network’s parameters by applying the chain rule layer by layer, working backwards from the output. Because each layer’s gradients reuse intermediate results already computed for the layer after it, the full gradient costs roughly the same as a single forward pass, rather than requiring a separate calculation for each parameter.
+
+![[ML - Lecture 3.pdf#page=76|ML - Lecture 3, page 76]]
+
+- We are just applying the chain rule over the intermediate activations of a layer. 
+- We need to regularly repeat the computations.
+- Here we have been assuming we have scalars but of course we are dealing with vectors and matrices.
+
+![[ML - Lecture 3.pdf#page=77|ML - Lecture 3, page 77]]
+- We are talking about the gradient of the loss function with respect to $u$
+
+![[Pasted image 20261023110620.png]]
+
+![[ML - Lecture 3.pdf#page=78|ML - Lecture 3, page 78]]
+
+* The sensitivity of intermediate functions with respect to their inputs
+![[Pasted image 20261023111002.png]]
+
+### Forward Computation of Logistic Regression
+![[Pasted image 20261023140321.png]]
+
+### Local Derivatives for Logistic Regression
+![[Pasted image 20261023140714.png]]
+
+### The Backwards Pass
+![[Pasted image 20261023141018.png]]
+
+![[ML - Lecture 3.pdf#page=79|ML - Lecture 3, page 79]]
+
+![[ML - Lecture 3.pdf#page=80|ML - Lecture 3, page 80]]
+
+![[ML - Lecture 3.pdf#page=81|ML - Lecture 3, page 81]]
+
+
+![[ML - Lecture 3.pdf#page=82|ML - Lecture 3, page 82]]
+
+![[ML - Lecture 3.pdf#page=83|ML - Lecture 3, page 83]]
+
+MLP is a multilayer perceptron...
+
+### Worked MLP
+
+![[Pasted image 20261023141744.png]]
+
+- In the case of simple logistic regression, the diagram collapses to just be a single neurone and it connect directly to the loss, there is no intermediate layer a.
+
+![[ML - Lecture 3.pdf#page=86|ML - Lecture 3, page 86]]
+
+- Linear mapping, a **Rectified Linear Unit** applied element by element to the scores (z).
+
+![[ML - Lecture 3.pdf#page=87|ML - Lecture 3, page 87]]
+
+![[ML - Lecture 3.pdf#page=88|ML - Lecture 3, page 88]]
+
+![[ML - Lecture 3.pdf#page=89|ML - Lecture 3, page 89]]
+
+- We pass back the gradient of the loss from the loss layer to the perceptron...
+
+![[ML - Lecture 3B.pdf#page=89|ML - Lecture 3B, page 89]]
+
+
+![[ML - Lecture 3B.pdf#page=90|ML - Lecture 3B, page 90]]
+
+- We are building a matrix of gradients
+
+![[ML - Lecture 3B.pdf#page=91|ML - Lecture 3B, page 91]]
+
+![[ML - Lecture 3B.pdf#page=92|ML - Lecture 3B, page 92]]
+
+![[ML - Lecture 3B.pdf#page=93|ML - Lecture 3B, page 93]]
+
+![[ML - Lecture 3B.pdf#page=94|ML - Lecture 3B, page 94]]
+
+![[ML - Lecture 3B.pdf#page=95|ML - Lecture 3B, page 95]]
+
+![[ML - Lecture 3B.pdf#page=96|ML - Lecture 3B, page 96]]
+
+![[ML - Lecture 3B.pdf#page=97|ML - Lecture 3B, page 97]]
+
+## Appendix
+![[ML - Lecture 3B.pdf#page=103|ML - Lecture 3B, page 103]]

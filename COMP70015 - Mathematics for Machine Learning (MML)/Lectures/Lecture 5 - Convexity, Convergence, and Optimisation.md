@@ -1,3 +1,12 @@
+---
+flashcards:
+  q-g76d: { nid: 1792517386818, hash: q27ifvp4, sync: s8ua7zmc }
+  q-7y59: { nid: 1792517386856, hash: ge6qwbcn, sync: rarpbztj }
+  q-shwr: { nid: 1792517386920, hash: ingg6rya, sync: km8vcfup }
+  q-u5er: { nid: 1792517386987, hash: ss4g54p6, sync: 3hdjbnix }
+  q-vutq: { nid: 1792517387041, hash: 9aui2ekk, sync: 448ecagg }
+---
+
 ![[MML - Lecture 5.pdf]]
 
 - When we do optimisation we hope to find a global minimum...
@@ -14,6 +23,7 @@
 
 > [!CARD] A progress bound in gradient descent.
 > Every step in gradient descent is getting better. i.e. the loss is getting smaller.
+^q-g76d
 
 ![[MML - Lecture 5.pdf#page=6|MML - Lecture 5, page 6]]
 
@@ -43,6 +53,7 @@ We approximate the function with the Taylor expansion.
 > - Assumption 2: Lipschitz Smoothness 
 >$$ \|\nabla \mathcal{L}(\boldsymbol{w}) - \nabla \mathcal{L}(\boldsymbol{v})\| \leq L \|\boldsymbol{w} - \boldsymbol{v}\|$$
 >Lipschitz smoothness (L-smoothness) means the gradient of the loss can't change faster than a constant rate $L$, so the curvature is bounded and the function can never bend more sharply than a quadratic with curvature $L$. This is why a step size of $1/L$ guarantees gradient descent makes progress.
+^q-7y59
 
 ![[MML - Lecture 5.pdf#page=14|MML - Lecture 5, page 14]]
 
@@ -85,6 +96,7 @@ We approximate the function with the Taylor expansion.
 	> - We can trade it off, inside the function in the input space:
 	> - ![[Pasted image 20261020093718.png]]
 	> - The Secant should always be above the function
+^q-shwr
 
 - Tangent definition of convexity:
 	- The Tangent should always be below the function for convexity
@@ -103,6 +115,7 @@ We approximate the function with the Taylor expansion.
 - What does it mean to converge?
 > [!CARD] Convergence definition
 >a sequence x_1, x_2, ... is said to converge to a limit T if for any epsilon > 0 we have an integer K such that $\forall M > K, \; |x_M - T| < \epsilon$
+^q-u5er
 
 ![[MML - Lecture 5.pdf#page=33|MML - Lecture 5, page 33]]
 
@@ -141,6 +154,7 @@ We approximate the function with the Taylor expansion.
 >for a square matrix $\boldsymbol{A} \in \mathbb{R}^{n \times n}$, a non-zero vector $\boldsymbol{v}$ is an eigenvector of $\boldsymbol{A}$ with corresponding eigenvalue $\lambda$ if $\boldsymbol{A}\boldsymbol{v} = \lambda \boldsymbol{v}$, i.e. $\boldsymbol{A}$ only scales $\boldsymbol{v}$ without changing its direction. The eigenvalues are the roots of the characteristic equation $\det(\boldsymbol{A} - \lambda \boldsymbol{I}) = 0$.
 >
 >**Intuition:** most vectors get rotated and stretched when you apply a matrix, but eigenvectors are the special directions that only get stretched or flipped, and the eigenvalue tells you by how much.
+^q-vutq
 
 ![[MML - Lecture 5.pdf#page=49|MML - Lecture 5, page 49]]
 
