@@ -6,39 +6,37 @@
       {
         "id": "4b5b9837a2afe8db",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "05d43e3a1b0b7b2e",
+            "id": "2dce321566ac42e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md",
+                "file": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 5 - Mean-Variance Portfolio Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 4 - Temporal Difference Methods"
+              "title": "Lecture 5 - Mean-Variance Portfolio Theory"
             }
           }
         ]
       },
       {
-        "id": "d76966a9593bde64",
+        "id": "ab4a54ecdd17614b",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "d073e11e7516a1d7",
+            "id": "6b662c8f42846cbe",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP70028 - Reinforcement Learning (RL)/Attachments/RL - Lecture 4.pdf"
+                "file": "CF - Lecture 5.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "RL - Lecture 4"
+              "title": "CF - Lecture 5"
             }
           }
         ]
@@ -252,8 +250,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ab3c409d1c7cd8fc",
+  "active": "2dce321566ac42e6",
   "lastOpenFiles": [
+    "CF - Lecture 5.pdf",
+    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 5 - Mean-Variance Portfolio Theory.md",
+    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 4 - Fixed-Income Securities.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 7 - Cross Validation & Bias-Variance Trade-off.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Scan from 2026-10-27 10_49_13 AM.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Scan from 2026-10-27 10_47_22 AM.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Scan from 2026-10-27 10_33_56 AM.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture 7.pdf",
     "COMP70028 - Reinforcement Learning (RL)/Attachments/RL - Lecture 4.pdf",
     "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md",
     "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 3 - Model-free Monte Carlo Methods.md",
@@ -269,15 +275,10 @@
     "COMP70028 - Reinforcement Learning (RL)/Attachments/RL - Tutorial 3.pdf",
     "COMP70028 - Reinforcement Learning (RL)/Attachments/Scan from 2026-10-24 02_02_14 PM.pdf",
     "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 6 - Concentration Inequalities and Generalisation.md",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/RL - Lecture 3.pdf",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/tutorial_3_solutions.pdf",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/Reinforcement Learning - Lecture 1.pdf",
     "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261024105053.png",
     "COMP70028 - Reinforcement Learning (RL)/Attachments/Pasted image 20261024105046.png",
     "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md",
     "COMP70028 - Reinforcement Learning (RL)/Tutorials/Tutorial 2 - Dynamic Programming.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/MML - Lecture 6.pdf",
-    "COMP70028 - Reinforcement Learning (RL)/Attachments/RL - Lecture 2.pdf",
     "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Untitled.md",
     "COMP70050 - Machine Learning (ML)/Attachments/Pasted image 20261023141744.png",
     "COMP70050 - Machine Learning (ML)/Attachments/Pasted image 20261023141018.png",
@@ -295,9 +296,6 @@
     "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 4.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 3.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 2.md",
-    "cos θ, −sin θ], [sin θ, cos θ.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Equation Sheet.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Resources.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Attachments/Pasted image 20261020093718.png"
   ]
 }

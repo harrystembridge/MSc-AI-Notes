@@ -186,3 +186,29 @@ As we learn, this is what the reward functions look like.
 
 ![[RL - Lecture 4.pdf#page=72|RL - Lecture 4, page 72]]
 
+![[RL - Lecture 4.pdf#page=73|RL - Lecture 4, page 73]]
+
+- Just broken into the Q functions to reduce the maximisation bias.
+
+![[RL - Lecture 4.pdf#page=74|RL - Lecture 4, page 74]]
+
+- Always go right,
+- Can go left with gaussian chance of -0.1 or right for 0 payoff.
+- If we take the max, Q-learning will go the wrong way at the beginning of training... Because sometimes the result is strong on the left, it favours going left at least in the beginning.
+
+
+![[RL - Lecture 4.pdf#page=75|RL - Lecture 4, page 75]]
+
+Answer: E 
+Maximising over noisy estimates.
+
+
+![[RL - Lecture 4.pdf#page=76|RL - Lecture 4, page 76]]
+
+![[RL - Lecture 4.pdf#page=77|RL - Lecture 4, page 77]]
+
+![[RL - Lecture 4.pdf#page=79|RL - Lecture 4, page 79]]
+
+![[RL - Lecture 4.pdf#page=80|RL - Lecture 4, page 80]]
+
+
