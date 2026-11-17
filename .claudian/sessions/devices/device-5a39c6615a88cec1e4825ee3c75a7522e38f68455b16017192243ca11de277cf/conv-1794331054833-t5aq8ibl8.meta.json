@@ -1,0 +1,24 @@
+{
+  "id": "conv-1794331054833-t5aq8ibl8",
+  "providerId": "claude",
+  "title": "MDP policy definition",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794331054863,
+  "lastActivityAt": 1794331335988,
+  "sessionId": "75100f1d-df69-42c5-9a1b-0f820d09982d",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "75100f1d-df69-42c5-9a1b-0f820d09982d"
+  },
+  "linkedContentPath": "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 4,
+    "cacheCreationInputTokens": 2226,
+    "cacheReadInputTokens": 19727,
+    "contextWindow": 1000000,
+    "contextTokens": 21957,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

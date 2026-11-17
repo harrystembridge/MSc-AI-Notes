@@ -1,0 +1,24 @@
+{
+  "id": "conv-1793102323954-zg4r3din9",
+  "providerId": "claude",
+  "title": "Claude capabilities",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793102323969,
+  "lastActivityAt": 1793102351401,
+  "sessionId": "cff68ffe-441e-4bf6-ae72-eec379744a4f",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "cff68ffe-441e-4bf6-ae72-eec379744a4f"
+  },
+  "linkedContentPath": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 5 - Mean-Variance Portfolio Theory.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 9753,
+    "cacheReadInputTokens": 11824,
+    "contextWindow": 1000000,
+    "contextTokens": 21579,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

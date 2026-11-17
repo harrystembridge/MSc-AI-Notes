@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1794583333710-zc6obb13s",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794583334518-daf7c42",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1794583333705-lyswzla",
+      "timestamp": 1794583333705,
+      "rawDisplayText": "remind me what we mean by on-policy vs off-policy 2 sentences",
+      "canonicalText": "remind me what we mean by on-policy vs off-policy 2 sentences",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "88fe36810fab04ef6ae25b268ad378290085a600532ac4843056b144f220d875",
+      "providerUserMessageId": "44d97e4d-c0f0-48e9-991c-64ee8a2c7637"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794941889901-90iylp1",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1794941889856-zd5v1uf",
+      "timestamp": 1794941889856,
+      "rawDisplayText": "give me the ![[...]] links for the next 10 pages in the presentatiin for me to copy and paste into obsidian with a new line inbetween",
+      "canonicalText": "give me the ![[...]] links for the next 10 pages in the presentatiin for me to copy and paste into obsidian with a new line inbetween",
+      "images": [],
+      "contentDigest": "eed596542bc888c678481e479098d8244506269136cbc90fcb8a3e29cc95d19e",
+      "providerUserMessageId": "a5b68f91-3be3-4768-88e1-66b0fe0319d6",
+      "providerAssistantMessageId": "1605f56c-0499-48c4-8f38-9c56f27fa9a4"
+    }
+  ]
+}

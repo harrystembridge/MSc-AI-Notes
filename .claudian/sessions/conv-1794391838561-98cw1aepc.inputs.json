@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1794391838561-98cw1aepc",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794391838600-kt0r6db",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1794391838555-kcu2dkv",
+      "timestamp": 1794391838555,
+      "rawDisplayText": "one hot encoding definition",
+      "canonicalText": "one hot encoding definition",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70050 - Machine Learning (ML)/Lectures/Lecture 6 - Unsupervised Learning.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "c9715e8066b9656b95309a19096e5f906aab84689dc5b489b9eaae319748ddbd",
+      "providerUserMessageId": "1b006aa1-ccec-4cf5-b491-21c0cb92ca30",
+      "providerAssistantMessageId": "831e3cf3-17c0-4287-987e-4aa6163e1723"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1793182830373-qs03wo0m5",
+  "providerId": "claude",
+  "title": "Defining convolutional neural networks",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793182830398,
+  "lastActivityAt": 1793182838220,
+  "sessionId": "22215557-2e7b-40a0-bfe3-2a4d212eb779",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "22215557-2e7b-40a0-bfe3-2a4d212eb779"
+  },
+  "linkedContentPath": "COMP70050 - Machine Learning (ML)/Lectures/Lecture 4 - Training Deep Networks & Convolutional Networks.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 18903,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 18905,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

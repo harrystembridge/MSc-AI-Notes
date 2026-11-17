@@ -1,0 +1,24 @@
+{
+  "id": "conv-1794391838561-98cw1aepc",
+  "providerId": "claude",
+  "title": "One hot encoding explained",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794391838575,
+  "lastActivityAt": 1794391847968,
+  "sessionId": "fbe7923b-2aab-42e1-a301-8aac9a80c622",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "fbe7923b-2aab-42e1-a301-8aac9a80c622"
+  },
+  "linkedContentPath": "COMP70050 - Machine Learning (ML)/Lectures/Lecture 6 - Unsupervised Learning.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 19622,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 19624,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

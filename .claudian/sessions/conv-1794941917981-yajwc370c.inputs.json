@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1794941917981-yajwc370c",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794941918025-fnftzov",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1794941917971-zbr2iyp",
+      "timestamp": 1794941917971,
+      "rawDisplayText": "give me the\n![[...]]\nlinks for the next 10 pages in the presentatiin for me to copy and paste into obsidian with a new line inbetween",
+      "canonicalText": "give me the\n![[...]]\nlinks for the next 10 pages in the presentatiin for me to copy and paste into obsidian with a new line inbetween",
+      "images": [],
+      "contentDigest": "33b4e811de763f7e63b88b752d09f701cc9e22a80d08ef82f99cbfc5fd394894",
+      "providerUserMessageId": "c994e591-e776-4ee6-a878-e7cbc81643b4"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1794941949829-kx3ilav6s",
+  "providerId": "claude",
+  "title": "Generate Obsidian links from presentation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794941949845,
+  "lastActivityAt": 1794942649316,
+  "sessionId": "556b9fa0-514c-44cb-bbf3-ee7f8a5353cc",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "556b9fa0-514c-44cb-bbf3-ee7f8a5353cc"
+  },
+  "linkedContentPath": "COMP70050 - Machine Learning (ML)/Lectures/Lecture 7 - Generative Modelling.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 4,
+    "cacheCreationInputTokens": 480,
+    "cacheReadInputTokens": 22358,
+    "contextWindow": 1000000,
+    "contextTokens": 22842,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

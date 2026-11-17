@@ -1,0 +1,24 @@
+{
+  "id": "conv-1794399217206-4q0mi02fm",
+  "providerId": "claude",
+  "title": "Bellman equation derivation LaTeX",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794399217242,
+  "lastActivityAt": 1794399339319,
+  "sessionId": "b5a98309-d0f1-4117-b031-06d33ed2473e",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "b5a98309-d0f1-4117-b031-06d33ed2473e"
+  },
+  "linkedContentPath": "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 4,
+    "cacheCreationInputTokens": 2568,
+    "cacheReadInputTokens": 20349,
+    "contextWindow": 1000000,
+    "contextTokens": 22921,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

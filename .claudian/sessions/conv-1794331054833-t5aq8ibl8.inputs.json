@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1794331054833-t5aq8ibl8",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794331055044-eel8wtk",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1794331054830-2sgmgsi",
+      "timestamp": 1794331054830,
+      "rawDisplayText": "What is a polict in the context of MDP, 1 sentence",
+      "canonicalText": "What is a polict in the context of MDP, 1 sentence",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "ae24dbef4d33bc27e989546b5f832bc8cbdf1e3e6d0ab4c0ef9b848e110d8aad",
+      "providerUserMessageId": "4dbfdc93-e9f0-4b72-885c-1af4f84e86f8",
+      "providerAssistantMessageId": "48baa786-9353-4fe2-99f2-8c8a21c52ec4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794331182010-bozsmec",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1794331182003-ht0imrk",
+      "timestamp": 1794331182003,
+      "rawDisplayText": "give me the latex for the equation for a state value fiunction",
+      "canonicalText": "give me the latex for the equation for a state value fiunction",
+      "images": [],
+      "contentDigest": "9bbabeb16dd61c831e456d29daf3f7de235cd0bd458171d202b20633ed2a5b2f",
+      "providerUserMessageId": "43cc2314-f82a-4cff-9aa6-d498ba49dc6f",
+      "providerAssistantMessageId": "680fa9ca-d48a-44bc-9615-efda1eb2f1d2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794331332659-i5heu2w",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1794331332634-dki4lr2",
+      "timestamp": 1794331332634,
+      "rawDisplayText": "give me the same for the action value function, using the return G_t",
+      "canonicalText": "give me the same for the action value function, using the return G_t",
+      "images": [],
+      "contentDigest": "8a2446d4b5b3a374a70fde4f1892b0fb31c0066551d3789bbd44dd4cd8c2b07e",
+      "providerUserMessageId": "74210a3e-ca4c-4775-8458-683452266413",
+      "providerAssistantMessageId": "c801491e-376a-49f3-bf5b-226e1d282b7e"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1794941949829-kx3ilav6s",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794941949862-kih83fj",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1794941949824-wpkwq0w",
+      "timestamp": 1794941949824,
+      "rawDisplayText": "give me the\n![[...]]\nlinks for the next 10 pages in the presentatiin for me to copy and paste into obsidian with a new line inbetween",
+      "canonicalText": "give me the\n![[...]]\nlinks for the next 10 pages in the presentatiin for me to copy and paste into obsidian with a new line inbetween",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70050 - Machine Learning (ML)/Lectures/Lecture 7 - Generative Modelling.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "33b4e811de763f7e63b88b752d09f701cc9e22a80d08ef82f99cbfc5fd394894",
+      "providerUserMessageId": "c4cd8496-4410-4903-b98c-aa3d5aa88513",
+      "providerAssistantMessageId": "d1c0a11d-eed6-4ee3-b215-a57f23431a5d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794942643311-yrda61z",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1794942643305-agcjb0v",
+      "timestamp": 1794942643305,
+      "rawDisplayText": "what is a latent variable?",
+      "canonicalText": "what is a latent variable?",
+      "images": [],
+      "contentDigest": "7b2209bcb7a82780bc481df58bdb5859764fb469dd64f61823b3b45bdcd1dd08",
+      "providerUserMessageId": "672f63ad-d228-4caf-8de1-f762b16119dd",
+      "providerAssistantMessageId": "f2408e3c-6802-43ee-8779-352b7020d55b"
+    }
+  ]
+}

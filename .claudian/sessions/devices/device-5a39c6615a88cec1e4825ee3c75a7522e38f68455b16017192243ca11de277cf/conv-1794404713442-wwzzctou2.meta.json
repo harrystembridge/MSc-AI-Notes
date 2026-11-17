@@ -1,0 +1,24 @@
+{
+  "id": "conv-1794404713442-wwzzctou2",
+  "providerId": "claude",
+  "title": "Explain dynamic programming",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794404713449,
+  "lastActivityAt": 1794406254229,
+  "sessionId": "b7888135-247e-4fba-99d0-25a11430c312",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "b7888135-247e-4fba-99d0-25a11430c312"
+  },
+  "linkedContentPath": "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 2 - Dynamic Programming.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 4,
+    "cacheCreationInputTokens": 995,
+    "cacheReadInputTokens": 32501,
+    "contextWindow": 1000000,
+    "contextTokens": 33500,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

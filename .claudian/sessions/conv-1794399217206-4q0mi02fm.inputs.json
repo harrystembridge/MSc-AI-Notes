@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1794399217206-4q0mi02fm",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794399217302-ehofn3v",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1794399217192-h2iakyq",
+      "timestamp": 1794399217192,
+      "rawDisplayText": "Vπ (s) = E[Gt|St = s, π] (expected return from state) = E[Rt+1 + γGt+1|St = s, π] (break into immediate + future) = E[Rt+1 + γE[Gt+1|St+1, π]|St = s, π] (linearity & total expectation∗) = E[Rt+1 + γVπ (St+1)|St = s, π] (recursive value definition) = ∑ a π(a|s) ∑ s′,r P(s′, r|s, a)[r + γVπ (s′)] (expand expectation)\n\ngive me the latex for this derivation of the bellman equation",
+      "canonicalText": "Vπ (s) = E[Gt|St = s, π] (expected return from state) = E[Rt+1 + γGt+1|St = s, π] (break into immediate + future) = E[Rt+1 + γE[Gt+1|St+1, π]|St = s, π] (linearity & total expectation∗) = E[Rt+1 + γVπ (St+1)|St = s, π] (recursive value definition) = ∑ a π(a|s) ∑ s′,r P(s′, r|s, a)[r + γVπ (s′)] (expand expectation)\n\ngive me the latex for this derivation of the bellman equation",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "093f28d8d450ae842a786ee005d61914771051bf16652086d503784b85519715",
+      "providerUserMessageId": "ee0544a0-9c33-42de-aa42-e5d445d5a6bd",
+      "providerAssistantMessageId": "46705fcf-567d-4615-a03c-4ffd3504d22d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794399250402-v40bdnd",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1794399250395-lb2j3mq",
+      "timestamp": 1794399250395,
+      "rawDisplayText": "does obisidian support that?",
+      "canonicalText": "does obisidian support that?",
+      "images": [],
+      "contentDigest": "b874b899ea67516340364b59532eb56d1799b077a15db817ade4c77ab82e41ae",
+      "providerUserMessageId": "fceb0814-f0d8-4cab-bcec-92333a1067a1",
+      "providerAssistantMessageId": "a74ff3f7-a3a1-4d84-9f77-b42988446856"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794399329813-vrnlrfl",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1794399329802-frznr57",
+      "timestamp": 1794399329802,
+      "rawDisplayText": "also add an explanation of each term",
+      "canonicalText": "also add an explanation of each term",
+      "images": [],
+      "contentDigest": "8bf68b2cbf3af5212f67e9abf22a77bf37d52472079052cab974d6c566f4dba3",
+      "providerUserMessageId": "98184b65-3ba1-44d8-812f-bcb893927d2e",
+      "providerAssistantMessageId": "1f6a7ceb-9352-4e0a-9b99-174917f9d8e3"
+    }
+  ]
+}

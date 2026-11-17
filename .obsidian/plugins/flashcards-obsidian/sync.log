@@ -134,3 +134,18 @@
 2026-10-24T15:11:09.193Z [INFO] plugin loaded {"version":"2.2.0"}
 2026-10-26T16:40:45.970Z [INFO] syncNote start {"notePath":"COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md"}
 2026-10-26T16:40:47.496Z [INFO] syncNote ok {"notePath":"COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md","okCreates":2,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-11-01T22:05:23.231Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-11-09T11:05:25.779Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-11-10T13:25:00.473Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-11-10T17:58:26.318Z [INFO] syncNote start {"notePath":"COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md"}
+2026-11-10T17:58:27.560Z [INFO] syncNote ok {"notePath":"COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md","okCreates":3,"okUpdates":5,"okDeletes":0,"failedOps":0}
+2026-11-10T19:59:13.410Z [INFO] syncNote start {"notePath":"COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md"}
+2026-11-10T19:59:13.679Z [INFO] syncNote pending deletion {"notePath":"COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md","blockId":"q-ji59","nid":1794333506787,"deckName":"COMP70028 - Reinforcement Learning (RL)::Lectures"}
+2026-11-10T19:59:13.679Z [INFO] syncNote pending deletion {"notePath":"COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md","blockId":"q-zbkq","nid":1794333506874,"deckName":"COMP70028 - Reinforcement Learning (RL)::Lectures"}
+2026-11-10T19:59:16.855Z [WARN] CREATE failed {"blockId":"q-68tb","error":"cannot create note because it is a duplicate"}
+2026-11-10T19:59:16.904Z [WARN] CREATE failed {"blockId":"q-3g4i","error":"cannot create note because it is a duplicate"}
+2026-11-10T19:59:17.047Z [INFO] syncNote ok {"notePath":"COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 1 - Introduction and Markov Decision Processes.md","okCreates":1,"okUpdates":0,"okDeletes":2,"failedOps":2}
+2026-11-13T15:39:54.291Z [INFO] syncNote start {"notePath":"COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md"}
+2026-11-13T15:39:56.078Z [INFO] syncNote ok {"notePath":"COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md","okCreates":5,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-11-16T20:54:17.691Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-11-17T10:36:07.438Z [INFO] plugin loaded {"version":"2.2.0"}

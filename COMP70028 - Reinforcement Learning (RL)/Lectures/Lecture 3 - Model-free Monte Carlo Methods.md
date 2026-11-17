@@ -82,8 +82,9 @@ Answer: B - we need all the returns
 
 > [!CARD] On-policy Methods
 > - Evaluate and improve the policy that is used to make decisions 
-> - The policy being learned is the same as the policy being followed Must use stochastic policies to maintain exploration.
-> Requires stochastic policies
+> - The policy being learned is the same as the policy being followed 
+> - Must use stochastic policies to maintain exploration.
+> - Requires stochastic policies
 
 
 > [!CARD] Off-policy Methods

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1793101808047-8jjn0tb8e",
+  "providerId": "claude",
+  "title": "Create flashcards from lecture PDF",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793101808059,
+  "lastActivityAt": 1793102306885,
+  "sessionId": "4ab93186-32d0-43c5-b117-dbb7c874ff88",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "4ab93186-32d0-43c5-b117-dbb7c874ff88"
+  },
+  "linkedContentPath": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 5 - Mean-Variance Portfolio Theory.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 375,
+    "cacheReadInputTokens": 28117,
+    "contextWindow": 1000000,
+    "contextTokens": 28494,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

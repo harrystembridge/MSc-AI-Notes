@@ -1,0 +1,24 @@
+{
+  "id": "conv-1794583333710-zc6obb13s",
+  "providerId": "claude",
+  "title": "remind me what we mean by on-policy vs off-policy ...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1794583333717,
+  "lastActivityAt": 1794941900995,
+  "sessionId": "4c996fad-f752-48ef-b388-b8735c367793",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "4c996fad-f752-48ef-b388-b8735c367793"
+  },
+  "linkedContentPath": "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 4 - Temporal Difference Methods.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2451,
+    "cacheReadInputTokens": 19956,
+    "contextWindow": 1000000,
+    "contextTokens": 22409,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

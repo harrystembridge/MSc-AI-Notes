@@ -1,0 +1,24 @@
+{
+  "id": "conv-1793823711406-spa3g4rlu",
+  "providerId": "claude",
+  "title": "McKinsey Decision Tree Visual Map",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793823711432,
+  "lastActivityAt": 1793890573246,
+  "sessionId": "cea2c3ea-6b46-4b8d-a91d-1fa7a19acc80",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "cea2c3ea-6b46-4b8d-a91d-1fa7a19acc80"
+  },
+  "linkedContentPath": "Careers/McKinsey/McKinsey Interview Prep.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 862,
+    "cacheReadInputTokens": 42532,
+    "contextWindow": 1000000,
+    "contextTokens": 43396,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

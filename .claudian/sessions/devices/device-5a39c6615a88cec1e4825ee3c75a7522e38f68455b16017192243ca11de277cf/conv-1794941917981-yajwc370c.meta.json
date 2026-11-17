@@ -1,0 +1,23 @@
+{
+  "id": "conv-1794941917981-yajwc370c",
+  "providerId": "claude",
+  "title": "Extract Obsidian links from presentation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794941918008,
+  "lastActivityAt": 1794941928021,
+  "sessionId": "f4b3ee16-7262-4f66-be85-799cc8bef8fc",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "f4b3ee16-7262-4f66-be85-799cc8bef8fc"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 8245,
+    "cacheReadInputTokens": 11364,
+    "contextWindow": 1000000,
+    "contextTokens": 19611,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

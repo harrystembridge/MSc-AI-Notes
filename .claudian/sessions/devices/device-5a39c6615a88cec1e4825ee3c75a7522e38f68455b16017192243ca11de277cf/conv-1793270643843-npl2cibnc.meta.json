@@ -1,0 +1,23 @@
+{
+  "id": "conv-1793270643843-npl2cibnc",
+  "providerId": "claude",
+  "title": "Format in LaTeX",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793270643870,
+  "lastActivityAt": 1793270933032,
+  "sessionId": "151f8126-a1eb-4a5c-9fb1-fb003d96196a",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "151f8126-a1eb-4a5c-9fb1-fb003d96196a"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 4,
+    "cacheCreationInputTokens": 2467,
+    "cacheReadInputTokens": 19182,
+    "contextWindow": 1000000,
+    "contextTokens": 21653,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1793182830373-qs03wo0m5",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793182830418-b5g4e4a",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1793182830367-008niu3",
+      "timestamp": 1793182830367,
+      "rawDisplayText": "What makes a NN convolutional",
+      "canonicalText": "What makes a NN convolutional",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70050 - Machine Learning (ML)/Lectures/Lecture 4 - Training Deep Networks & Convolutional Networks.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "6f982315c93f5b2bb374b518d85db6c288855c88a2212f0765785cd86d51dd5c",
+      "providerUserMessageId": "332aae3f-3292-4c2e-9a68-11f38c9999f2",
+      "providerAssistantMessageId": "cde50e79-6603-4b72-98ef-98edee7ac763"
+    }
+  ]
+}

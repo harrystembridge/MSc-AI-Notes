@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1793102323954-zg4r3din9",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793102323983-a8tdp9e",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1793102323953-66xvddj",
+      "timestamp": 1793102323953,
+      "rawDisplayText": "what skills do you have?",
+      "canonicalText": "what skills do you have?",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 5 - Mean-Variance Portfolio Theory.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "7f8f9ab62b6460eab9a061694615428df32f902668b8a6f0f62242ea4ab9b206",
+      "providerUserMessageId": "5e98dd97-20a8-4238-89a3-7c08c463bc96",
+      "providerAssistantMessageId": "3e0ac757-e9de-485b-9458-f3422bb5602e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793102345001-ujzza2m",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1793102344993-4iutbn3",
+      "timestamp": 1793102344993,
+      "rawDisplayText": "in what instance do you use the cards skill? how can I guarantee you call it when needed?",
+      "canonicalText": "in what instance do you use the cards skill? how can I guarantee you call it when needed?",
+      "images": [],
+      "contentDigest": "053d89abd326d268d2bad226411f9a26ff1d7c1f260b39902559ced84f8c941e",
+      "providerUserMessageId": "6b903116-58c3-4057-b09a-75a7edf0e7da",
+      "providerAssistantMessageId": "c58ed746-418a-482c-a28a-3558d46052c5"
+    }
+  ]
+}

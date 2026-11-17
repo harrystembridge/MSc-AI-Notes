@@ -224,4 +224,150 @@ How does dropout compare to L2 regularisation?
 - Choosing hyper-parameters based on cross-validation...
 
 ## Convolutional Networks
+![[RL - Lecture 4B.pdf]]
 
+![[RL - Lecture 4B.pdf#page=2|RL - Lecture 4B, page 2]]
+
+- Denoise images 
+
+![[RL - Lecture 4B.pdf#page=3|RL - Lecture 4B, page 3]]
+
+![[RL - Lecture 4B.pdf#page=4|RL - Lecture 4B, page 4]]
+
+- end up with a much smoother surface
+
+![[RL - Lecture 4B.pdf#page=5|RL - Lecture 4B, page 5]]
+
+- box filter just takes the average of neighbouring pixels.
+
+![[RL - Lecture 4B.pdf#page=6|RL - Lecture 4B, page 6]]
+
+![[RL - Lecture 4B.pdf#page=7|RL - Lecture 4B, page 7]]
+
+![[RL - Lecture 4B.pdf#page=8|RL - Lecture 4B, page 8]]
+
+![[RL - Lecture 4B.pdf#page=9|RL - Lecture 4B, page 9]]
+
+- Different kernels are needed to detect different properties within an image.
+- These Kernels are not constructed manually, they are shaped by back-propagation from the loss function.
+
+
+![[RL - Lecture 4B.pdf#page=10|RL - Lecture 4B, page 10]]
+
+![[RL - Lecture 4B.pdf#page=11|RL - Lecture 4B, page 11]]
+![[RL - Lecture 4B.pdf#page=12|RL - Lecture 4B, page 12]]
+
+![[RL - Lecture 4B.pdf#page=13|RL - Lecture 4B, page 13]]
+
+![[RL - Lecture 4B.pdf#page=14|RL - Lecture 4B, page 14]]
+
+- We set most weights to be zero by design.
+- Reuse the same weights at every location.
+- This reduces D.O.F. for the model, most elements in the matrix are zero so can improve the efficiency of implementation.
+- Convolution involves pooling the input signal and applying some filter
+
+![[RL - Lecture 4B.pdf#page=15|RL - Lecture 4B, page 15]]
+
+![[RL - Lecture 4B.pdf#page=16|RL - Lecture 4B, page 16]]
+
+![[RL - Lecture 4B.pdf#page=17|RL - Lecture 4B, page 17]]
+
+![[RL - Lecture 4B.pdf#page=18|RL - Lecture 4B, page 18]]
+
+![[RL - Lecture 4B.pdf#page=19|RL - Lecture 4B, page 19]]
+
+![[RL - Lecture 4B.pdf#page=20|RL - Lecture 4B, page 20]]
+
+![[RL - Lecture 4B.pdf#page=21|RL - Lecture 4B, page 21]]
+
+- here we are downsizing by 2/stride of 2
+
+![[RL - Lecture 4B.pdf#page=22|RL - Lecture 4B, page 22]]
+
+- Give us the benefit of robustness against noise in our signals.
+
+![[RL - Lecture 4B.pdf#page=23|RL - Lecture 4B, page 23]]
+
+- How information propogates from the input signal through the network.
+
+![[RL - Lecture 4B.pdf#page=24|RL - Lecture 4B, page 24]]
+
+![[RL - Lecture 4B.pdf#page=25|RL - Lecture 4B, page 25]]
+
+- We have a fully connected layer which gives us our categorical response.
+- In the convolutional layers, each sample identifies signals and passes them through to the output layer...
+
+## Vision Tasks
+![[RL - Lecture 4B.pdf#page=26|RL - Lecture 4B, page 26]]
+
+![[RL - Lecture 4B.pdf#page=27|RL - Lecture 4B, page 27]]
+
+![[RL - Lecture 4B.pdf#page=28|RL - Lecture 4B, page 28]]
+
+![[RL - Lecture 4B.pdf#page=29|RL - Lecture 4B, page 29]]
+
+![[RL - Lecture 4B.pdf#page=30|RL - Lecture 4B, page 30]]
+
+![[RL - Lecture 4B.pdf#page=31|RL - Lecture 4B, page 31]]
+
+![[RL - Lecture 4B.pdf#page=32|RL - Lecture 4B, page 32]]
+
+![[RL - Lecture 4B.pdf#page=33|RL - Lecture 4B, page 33]]
+
+![[RL - Lecture 4B.pdf#page=34|RL - Lecture 4B, page 34]]
+
+
+![[RL - Lecture 4B.pdf#page=35|RL - Lecture 4B, page 35]]
+
+![[RL - Lecture 4B.pdf#page=36|RL - Lecture 4B, page 36]]
+
+![[RL - Lecture 4B.pdf#page=37|RL - Lecture 4B, page 37]]
+
+![[RL - Lecture 4B.pdf#page=38|RL - Lecture 4B, page 38]]
+
+![[RL - Lecture 4B.pdf#page=39|RL - Lecture 4B, page 39]]
+
+![[RL - Lecture 4B.pdf#page=40|RL - Lecture 4B, page 40]]
+
+
+![[RL - Lecture 4B.pdf#page=41|RL - Lecture 4B, page 41]]
+
+![[RL - Lecture 4B.pdf#page=42|RL - Lecture 4B, page 42]]
+
+![[RL - Lecture 4B.pdf#page=43|RL - Lecture 4B, page 43]]
+
+![[RL - Lecture 4B.pdf#page=44|RL - Lecture 4B, page 44]]
+
+![[RL - Lecture 4B.pdf#page=45|RL - Lecture 4B, page 45]]
+
+![[RL - Lecture 4B.pdf#page=46|RL - Lecture 4B, page 46]]
+
+![[RL - Lecture 4B.pdf#page=47|RL - Lecture 4B, page 47]]
+
+![[RL - Lecture 4B.pdf#page=48|RL - Lecture 4B, page 48]]
+
+![[RL - Lecture 4B.pdf#page=49|RL - Lecture 4B, page 49]]
+
+![[RL - Lecture 4B.pdf#page=50|RL - Lecture 4B, page 50]]
+
+![[RL - Lecture 4B.pdf#page=51|RL - Lecture 4B, page 51]]
+
+![[RL - Lecture 4B.pdf#page=52|RL - Lecture 4B, page 52]]
+
+![[RL - Lecture 4B.pdf#page=53|RL - Lecture 4B, page 53]]
+
+![[RL - Lecture 4B.pdf#page=54|RL - Lecture 4B, page 54]]
+
+![[RL - Lecture 4B.pdf#page=55|RL - Lecture 4B, page 55]]
+
+![[RL - Lecture 4B.pdf#page=56|RL - Lecture 4B, page 56]]
+
+![[RL - Lecture 4B.pdf#page=57|RL - Lecture 4B, page 57]]
+
+## Transfer Learning
+![[RL - Lecture 4B.pdf#page=58|RL - Lecture 4B, page 58]]
+
+
+## Exercises
+$X ⇒ Z ⇒ h$
+![[Scan from 2026-10-29 01_30_47 PM.pdf]]

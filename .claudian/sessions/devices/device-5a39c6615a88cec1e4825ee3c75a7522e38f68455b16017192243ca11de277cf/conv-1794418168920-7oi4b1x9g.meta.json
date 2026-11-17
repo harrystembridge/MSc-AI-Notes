@@ -1,0 +1,24 @@
+{
+  "id": "conv-1794418168920-7oi4b1x9g",
+  "providerId": "claude",
+  "title": "Find First Visit Monte Carlo in Lectures",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794418168930,
+  "lastActivityAt": 1794419133287,
+  "sessionId": "25e53d27-a641-479f-ade6-8aaae05a14b7",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "25e53d27-a641-479f-ade6-8aaae05a14b7"
+  },
+  "linkedContentPath": "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 3 - Model-free Monte Carlo Methods.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 4,
+    "cacheCreationInputTokens": 592,
+    "cacheReadInputTokens": 31445,
+    "contextWindow": 1000000,
+    "contextTokens": 32041,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

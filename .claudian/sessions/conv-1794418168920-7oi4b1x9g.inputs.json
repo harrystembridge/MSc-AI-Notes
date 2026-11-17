@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1794418168920-7oi4b1x9g",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794418169570-ufst89b",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1794418168916-lvnbw0t",
+      "timestamp": 1794418168916,
+      "rawDisplayText": "where in the lecture do we discuss first visit monte carlo, do we disern the difference between first viist and other techniqes, also have a look at the slides",
+      "canonicalText": "where in the lecture do we discuss first visit monte carlo, do we disern the difference between first viist and other techniqes, also have a look at the slides",
+      "context": {
+        "linkedContent": {
+          "path": "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 3 - Model-free Monte Carlo Methods.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "18b0eff4ea4714a5b06984a645869c5cefb68e6d2162d3a4f89683639bfcabe0",
+      "providerUserMessageId": "1c9964d2-adf9-4e78-9a84-fe4ba2171007",
+      "providerAssistantMessageId": "04ad35aa-3928-40a2-ab7f-11022a622431"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794418424240-xfrhf67",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1794418424236-j97zkxr",
+      "timestamp": 1794418424236,
+      "rawDisplayText": "in importance sampling what is \\pi and what is b",
+      "canonicalText": "in importance sampling what is \\pi and what is b",
+      "images": [],
+      "contentDigest": "526b9019d37199336b476d5df2dcc9db9e45d684e27c4f7b263a45eb33753bbb",
+      "providerUserMessageId": "f2fec6b6-951f-47ba-a1ce-8e540be22013",
+      "providerAssistantMessageId": "3a8b097f-6a31-4c97-82ad-d9643d96e9f4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1794419125681-x1wzvwr",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1794419125674-94pj8uw",
+      "timestamp": 1794419125674,
+      "rawDisplayText": "why do we need off-policy methods?",
+      "canonicalText": "why do we need off-policy methods?",
+      "images": [],
+      "contentDigest": "86089ffb82883d23a7d8897e8e4a94faf89b3333daa1ddaf2537fb99120651f6",
+      "providerUserMessageId": "be28000b-fa7d-4ce0-a197-d79c18237fa9",
+      "providerAssistantMessageId": "c8405211-c009-41dc-8f7f-e143fd70007d"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1793101808047-8jjn0tb8e",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793101808088-mk9ba55",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1793101808039-rq13nok",
+      "timestamp": 1793101808039,
+      "rawDisplayText": "Create me cards in the form of \n> [!CARD] Question\n> Answer\n\nfor the contents of ![[CF - Lecture 5.pdf#page=7|CF - Lecture 5, page 7]]",
+      "canonicalText": "Create me cards in the form of \n> [!CARD] Question\n> Answer\n\nfor the contents of ![[CF - Lecture 5.pdf#page=7|CF - Lecture 5, page 7]]",
+      "context": {
+        "editorSelection": {
+          "notePath": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 5 - Mean-Variance Portfolio Theory.md",
+          "mode": "selection",
+          "selectedText": "![[CF - Lecture 5.pdf#page=7|CF - Lecture 5, page 7]]",
+          "lineCount": 1,
+          "startLine": 27
+        },
+        "linkedContent": {
+          "path": "COMP70006 - Computational Finance (CF)/Lectures/Lecture 5 - Mean-Variance Portfolio Theory.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "4f911e4e8c765c14e3f882ed15ed352433e4db125bd45fd5d7b5a7b3c427b70d",
+      "providerUserMessageId": "08594a8b-ad88-4110-8cb2-34dd9b4c25d6",
+      "providerAssistantMessageId": "f8e17c3f-ab8c-46c7-b32d-caa6cbd632cd"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793101979994-lapqfp6",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1793101979987-7hlitjr",
+      "timestamp": 1793101979987,
+      "rawDisplayText": "just give me the cards here to copy paste",
+      "canonicalText": "just give me the cards here to copy paste",
+      "images": [],
+      "contentDigest": "b62ecac7f439e3e2ba1b8924df405022a30a12c9190b74c8819e67c996ca59d2",
+      "providerUserMessageId": "281bd217-fb8b-4287-9ae6-bbba2b1b72e7",
+      "providerAssistantMessageId": "5f9ec9d4-a56e-43f9-801f-303451320ae4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793102020017-uofklu3",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1793102020010-23whnyi",
+      "timestamp": 1793102020011,
+      "rawDisplayText": "why was that so hard/take you so long. how can I make this easier for you next time",
+      "canonicalText": "why was that so hard/take you so long. how can I make this easier for you next time",
+      "images": [],
+      "contentDigest": "8570e92e74cd927e167f7de18678a049aa7394cc5eb5bf1df3124a09b6a1efd2",
+      "providerUserMessageId": "9fe9d4c4-d62e-4998-b289-ffbf40559d36",
+      "providerAssistantMessageId": "91653e9f-d7bd-479c-8eae-5edea77a9635"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793102062215-rn52sw0",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1793102062202-mg460d0",
+      "timestamp": 1793102062202,
+      "rawDisplayText": "(base) harrystembridge@Harrys-MacBook-Air-2 ~ % brew install poppler\nzsh: command not found: brew",
+      "canonicalText": "(base) harrystembridge@Harrys-MacBook-Air-2 ~ % brew install poppler\nzsh: command not found: brew",
+      "images": [],
+      "contentDigest": "4e033153fe908d5634420214aa7c0d2e319fcd46a5b0c12422ef173698395809",
+      "providerUserMessageId": "bbf62455-9745-4b19-ac10-31a52c69691a",
+      "providerAssistantMessageId": "a138a635-b1b8-48e0-8c1e-495774198bbc"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793102189506-sjyw98c",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1793102189492-ybufbbl",
+      "timestamp": 1793102189492,
+      "rawDisplayText": "also what's the best way for me to make this a common workflow where I just give you the context and you make these cards for me",
+      "canonicalText": "also what's the best way for me to make this a common workflow where I just give you the context and you make these cards for me",
+      "images": [],
+      "contentDigest": "707cd1fb41150dfdc62577285bd1b2d9b4cd7b4ae5f925aac6bcf4fb0b10363e",
+      "providerUserMessageId": "767974da-84d0-433c-b28c-b05a389b412b",
+      "providerAssistantMessageId": "9b3adb50-f69e-4a56-a25e-f55188110412"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793102253621-mbpchzr",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1793102253614-vicn4v1",
+      "timestamp": 1793102253614,
+      "rawDisplayText": "can you create the skill file for me, ask me any clarifications. I always prefer having the output sent to the chat and me appending myself",
+      "canonicalText": "can you create the skill file for me, ask me any clarifications. I always prefer having the output sent to the chat and me appending myself",
+      "images": [],
+      "contentDigest": "ccf2b541aa4ea0681883d2b5a7f6d343d2a8ad1912f28f9aa9daba5b4d40db54",
+      "providerUserMessageId": "a4a35ab9-35fc-4279-82dd-9114f15d31cd",
+      "providerAssistantMessageId": "8c824c69-c5a4-4aa7-b80f-48612223b2c3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793102303470-agjpg6b",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1793102303462-w53bksx",
+      "timestamp": 1793102303462,
+      "rawDisplayText": "okay nice, double check you can see the skills file",
+      "canonicalText": "okay nice, double check you can see the skills file",
+      "images": [],
+      "contentDigest": "fbdd562ad3e1895648f66b7e6b03d0e4cf5dd14e9653b7256bd598b8968b214f",
+      "providerUserMessageId": "ac6d62e2-3c64-4341-8935-4ec256371ae9",
+      "providerAssistantMessageId": "b6a4de8c-4fc8-4a2f-b80d-b1a0e44ae119"
+    }
+  ]
+}
