@@ -92,3 +92,25 @@
 
 ![[ML - Lecture 7A.pdf#page=48|ML - Lecture 7A, page 48]]
 
+![[ML - Lecture 7A.pdf#page=49|ML - Lecture 7A, page 49]]
+![[ML - Lecture 7A.pdf#page=50|ML - Lecture 7A, page 50]]
+![[ML - Lecture 7A.pdf#page=51|ML - Lecture 7A, page 51]]
+
+![[ML - Lecture 7A.pdf#page=52|ML - Lecture 7A, page 52]]
+
+![[ML - Lecture 7A.pdf#page=53|ML - Lecture 7A, page 53]]
+
+![[ML - Lecture 7A.pdf#page=54|ML - Lecture 7A, page 54]]
+![[ML - Lecture 7A.pdf#page=55|ML - Lecture 7A, page 55]]
+
+![[ML - Lecture 7A.pdf#page=56|ML - Lecture 7A, page 56]]
+
+![[ML - Lecture 7A.pdf#page=57|ML - Lecture 7A, page 57]]
+
+![[ML - Lecture 7A.pdf#page=58|ML - Lecture 7A, page 58]]
+
+![[ML - Lecture 7A.pdf#page=59|ML - Lecture 7A, page 59]]
+
+![[ML - Lecture 7A.pdf#page=60|ML - Lecture 7A, page 60]]
+
+![[ML - Lecture 7A.pdf#page=62|ML - Lecture 7A, page 62]]

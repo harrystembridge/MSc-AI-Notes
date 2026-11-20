@@ -93,14 +93,25 @@ TODO:
 > - [x] Write discussion
 > - [x] Tidy up mathematical outline of the UAT
 > - [x] Raise an MR for my jupyter changes
-> - [ ] Update figure
-> - [ ] Finish discussion
+> - [x] Update figure
+> - [x] Finish discussion
 > - [ ] Fix graphs
 > - [ ] Talk about how we beat the accuracy threshold... How did we decide on this model, what did we do. Justify tradeoff between bias and variance and flexibility.
-> 	- [ ] Here is the preprocessing we did
+> 	- [x] Here is the preprocessing we did
 > 	- [ ] Here is the model design
 > - [ ] Zip label files: four .npy files zipped together
 > - [x] Add figure for MLP
+> - [ ] Add new figures
+> - [ ] Get claude to check that results in paper match up with results from notebook
+> - [x] Cut the cost section in LoRA, it reads like AI
+> - [x] Move UAT to appendix
+> - [ ] Switch out figures
+
+
+
+
+
+
 
 
 

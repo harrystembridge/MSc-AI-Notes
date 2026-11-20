@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "612e6cc445d4f01e",
+        "id": "582d1a376284c567",
         "type": "tabs",
         "children": [
           {
-            "id": "9d5ce779b19cc689",
+            "id": "8da69cce69d3a4ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP70050 - Machine Learning (ML)/Lectures/Lecture 7 - Generative Modelling.md",
+                "file": "Revision/Revision Workflow Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 7 - Generative Modelling"
-            }
-          }
-        ]
-      },
-      {
-        "id": "28595942aa49a6e3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "656f1f20df1d6f78",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP70050 - Machine Learning (ML)/Assets/ML - Lecture 7A.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ML - Lecture 7A"
+              "title": "Revision Workflow Template"
             }
           }
         ]
@@ -277,11 +259,25 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9d5ce779b19cc689",
+  "active": "8da69cce69d3a4ae",
   "lastOpenFiles": [
-    "COMP70050 - Machine Learning (ML)/Assets/ML - Lecture 7A.pdf",
+    "Careers/Agave Capital/Round 2 prep.md",
+    "Revision/Revision Workflow Template.md",
+    "Careers/Agave Capital",
+    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 9 - Basic Options Theory.md",
+    "COMP70006 - Computational Finance (CF)/Assets/CF - Lecture 9.pdf",
+    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 8 - Asset Price Dynamics.md",
+    "COMP70006 - Computational Finance (CF)/Assets/CF - Lecture 8.pdf",
     "COMP70050 - Machine Learning (ML)/Lectures/Lecture 7 - Generative Modelling.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 11 - Bayesian Machine Learning (Part II).md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Assets/MML - Lecture 11.pdf",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Lectures/Lecture 12 - Dimensionality Reduction.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Coursework/CW Brief.md",
+    "COMP70015 - Mathematics for Machine Learning (MML)/Assets/MML - Lecture 12.pdf",
+    "COMP70028 - Reinforcement Learning (RL)/Lectures/Lecture 7 - Planning, Exploration and Offline RL.md",
+    "COMP70028 - Reinforcement Learning (RL)/Assets/RL - Lecture 7.pdf",
+    "Revision",
+    "COMP70050 - Machine Learning (ML)/Assets/ML - Lecture 7A.pdf",
     "COMP70006 - Computational Finance (CF)/Lectures/Lecture 5 - Mean-Variance Portfolio Theory.md",
     "COMP70006 - Computational Finance (CF)/Lectures/Lecture 4 - Fixed-Income Securities.md",
     "COMP70006 - Computational Finance (CF)/Lectures/Lecture 3 - The Basic Theory of Interest.md",
@@ -301,19 +297,6 @@
     "COMP70028 - Reinforcement Learning (RL)/Tutorials/Tutorial 2 - Dynamic Programming.md",
     "COMP70028 - Reinforcement Learning (RL)/Tutorials/Tutorial 3 - Model-Free Monte Carlo Methods.md",
     "COMP70028 - Reinforcement Learning (RL)/Tutorials/Tutorial 1 - Markov Decision Processes.md",
-    "COMP70028 - Reinforcement Learning (RL)/Assets/RL - Lecture 2.pdf",
-    "COMP70050 - Machine Learning (ML)/Lectures/Lecture 6 - Unsupervised Learning.md",
-    "COMP70050 - Machine Learning (ML)/Assets/ML - Lecture 6B.pdf",
-    "COMP70028 - Reinforcement Learning (RL)/Assets/Reinforcement Learning - Lecture 1 pt2.pdf",
-    "COMP70006 - Computational Finance (CF)/Assets/CF - Lecture 7.pdf",
-    "COMP70053 - Python Programming (PP)/Lecture 7 - Python Testing.md",
-    "COMP70053 - Python Programming (PP)/Assets/PP - Lecture 7.pdf",
-    "COMP70053 - Python Programming (PP)/Lecture 6 - Refactoring.md",
-    "COMP70006 - Computational Finance (CF)/Lectures/Lecture 7 - General Principles.md",
-    "COMP70015 - Mathematics for Machine Learning (MML)/Lecture Notes/Lecture Notes 6.md",
-    "COMP70028 - Reinforcement Learning (RL)/Assets/RL - Lecture 6.pdf",
-    "COMP70050 - Machine Learning (ML)/Assets/ML - Lecture 6.pdf",
-    "COMP70050 - Machine Learning (ML)/Lectures/Lecture 5 - Attention and Transformers.md",
     "COMP70015 - Mathematics for Machine Learning (MML)/Assets/Pasted image 20261105120513.png",
     "Careers/Assets/Pasted image 20261029121651.png",
     "Careers/Assets/Pasted image 20261029121600.png",

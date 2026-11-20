@@ -1,0 +1,27 @@
+Not sure if the interview will take this form or not as already done round with with Ivaylo, sounded quite different. Different set of questions...
+
+- Economics: 
+	- Monetary policy
+	- Unemployment 
+	- Interest rates
+- Finance:
+	- Fixed income + bonds
+	- Futures contracts
+	- Hedging 
+	- What is the EMH - the efficient market hypothesis states that all available information is encoded into an assets price.
+	- What is the no arbitrage condition - there is no free lunch, something that costs zero will give you zero in return, law of one price, assets that give the same return will have the same price today.
+	- Mutable vs immutable objects:
+		- Mutable you can change their data without changing their identity.
+		- Immutable objects don't allow in-place modifications, new objects must be created to change their values.
+- Stats:
+	- Hypothesis testing - way of measuring if results are statistically significant
+	- Null hypothesis - what we assume about the population
+	- Alternative hypothesis - what we are testing about the population.
+	- P values - the probability the null hypothesis is true given what we gathered from our sample.
+	- Linear regression, auto-regression.
+- Programming:
+	- None?
+	- ML?
+	- What is OOP?
+	- What is the difference between .toml, .txt and .env files
+	- Need to think about how to prep for this, maybe just more python practice or more practice with the ML packages?
